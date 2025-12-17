@@ -1,5 +1,6 @@
 ![Designer Man](./designerman.png)
 <sub>Designerman, a small pixel character I’m developing for fun in my spare time.</sub>
+---
 
 ## 👋 Hi, I’m Petri Lahdelma
 
