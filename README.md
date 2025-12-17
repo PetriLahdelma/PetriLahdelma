@@ -1,4 +1,4 @@
-![Developer Man](./developerman.png)
+![Designer Man](./designerman.png)
 
 ## 👋 Hi, I’m Petri Lahdelma
 
