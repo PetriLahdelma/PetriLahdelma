@@ -1,3 +1,5 @@
+![Developer Man](./developerman.png)
+
 ## 👋 Hi, I’m Petri Lahdelma
 
 I’m a design-systems-focused builder working at the intersection of **frontend engineering**, **AI-assisted workflows**, and **scalable SaaS**. With nearly **20 years of experience** across graphic design, UX, and product development, I specialize in turning messy, evolving requirements into **resilient systems that are pleasant to build on**.
