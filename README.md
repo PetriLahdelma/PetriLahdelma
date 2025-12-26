@@ -37,4 +37,4 @@ I also make music, experiment visually, and enjoy exploring the creative edges w
 ---
 
 *If you’re interested in design systems, AI-powered tooling, or the unglamorous realities of building products that last, you’ll probably get along with me just fine.*
-📫 Email: [mail [at] digitaltableteur [dot] com](mailto:mail@digitaltableteur.com)
+📫 Email: [mail [at] digitaltableteur [dot] com](mailto:mail@digitaltableteur.com) or 🟦 [LinkedIn →](https://www.linkedin.com/in/petrilahdelma/)
