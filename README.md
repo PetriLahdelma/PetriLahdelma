@@ -28,7 +28,7 @@ I’m a design-systems-focused builder working at the intersection of **frontend
 
 ### 🛠️ Things I enjoy nerding out about
 `Design Systems` · `React / TypeScript` · `Storybook` · `Next.js` · `AI & LLM tooling` ·  
-`APIs & async pipelines` · `Developer experience` · `Observability` · `DesignOps` ·  
+`APIs & async pipelines` · `Developer experience` · `Observability` · `DesignOps` · `PC & Games Consoles` ·  
 `SaaS unit economics` · `Shipping > theorizing`
 
 ### Besides design and code
