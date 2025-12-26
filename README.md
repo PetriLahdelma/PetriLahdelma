@@ -1,3 +1,6 @@
+![Petri](./petri.png)
+<sub>Work: AI and Design Systems. Therapy: horizon lines.</sub>
+
 ![Designer Man](./designerman.png)
 <sub>Designerman, a small pixel character I’m developing for fun in my spare time.</sub>
 
