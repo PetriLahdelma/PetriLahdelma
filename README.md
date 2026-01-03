@@ -24,7 +24,7 @@ I’m a design-systems-focused builder working at the intersection of **frontend
   I’m the founder of **VertaaUX.ai**, an AI-powered UX and accessibility auditing platform built with an API-first mindset. The product explores async pipelines, LLM-assisted analysis, CI-friendly workflows, and pragmatic guardrails around correctness, security, and cost.
 
 <p align="left">
-  <img alt="KnobSmith Audio Plugins" src="./knobsmithaudio_logo.png" width="180" />
+  <img alt="KnobSmith Audio Plugins" src="./knobsmithaudio_logo.png" width="380" />
 </p>
 - **Open source, developer experience & Audio @ [KnobSmith Audio →](https://knobsmithaudio.com)**  
   I’m deeply interested in how tools are *actually* used by developers: clear APIs, boring reliability, observable systems, and documentation that doesn’t lie. I enjoy experimenting with open source, MCPs, AI coding agents, and modern frontend architectures to see where the real leverage is (and where the hype breaks).
