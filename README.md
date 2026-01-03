@@ -9,7 +9,7 @@ I’m a design-systems-focused builder working at the intersection of **frontend
 
 ### What I work on
 <p align="left">
-  <img alt="Digitaltableteur" src="./dt-logo@2x.png" width="180" />
+  <img alt="Digitaltableteur" src="./dt-logo@2x.png" width="120" />
 </p>
 - **Design systems at scale @ [Digitaltableteur →](https://digitaltableteur.com)**  
   I currently lead design system work at **SAP Build Apps** and I am the founder/creative at **Digitaltableteur**, focusing on design, production-grade components, design-to-code alignment, and long-term DesignOps maturity. My day-to-day sits somewhere between Figma, Storybook, ReactTS, and the uncomfortable but necessary conversations about governance and consistency (UXC). <br /><br />
