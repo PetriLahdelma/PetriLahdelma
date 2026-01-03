@@ -15,7 +15,7 @@ I’m a design-systems-focused builder working at the intersection of **frontend
   I currently lead design system work at **SAP Build Apps** and I am the founder/creative at **Digitaltableteur**, focusing on design, production-grade components, design-to-code alignment, and long-term DesignOps maturity. My day-to-day sits somewhere between Figma, Storybook, ReactTS, and the uncomfortable but necessary conversations about governance and consistency (UXC). <br /><br />
 
 <p align="left">
-  <img alt="VertaaUX.ai" src="./vertaaux@2x.png" width="140" />
+  <img alt="VertaaUX.ai" src="./vertaaux@2x.png" width="135" />
 </p>
 - **AI-powered SaaS & automation @ [VertaaUX →](https://vertaaux.ai)**  
   I’m the founder of **VertaaUX.ai**, an AI-powered UX and accessibility auditing platform built with an API-first mindset. The product explores async pipelines, LLM-assisted analysis, CI-friendly workflows, and pragmatic guardrails around correctness, security, and cost. <br /><br />
