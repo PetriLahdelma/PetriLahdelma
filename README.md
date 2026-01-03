@@ -44,8 +44,6 @@ I’m a design-systems-focused builder working at the intersection of **frontend
 `APIs & async pipelines` · `Developer experience` · `Observability` · `DesignOps` · `PC & Games Consoles` ·  
 `SaaS unit economics` · `Shipping > theorizing`
 
----
-
 ### Besides design and code
 I also make music, experiment visually, and enjoy exploring the creative edges where structure meets chaos. I’m trying to be as outdoorsy as possible, curious by default, but happiest when building something that didn’t exist yesterday.
 
