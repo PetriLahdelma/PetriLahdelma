@@ -1,9 +1,6 @@
 ![Petri](./petri.png)
 <sub>Work: AI and Design Systems. Therapy: horizon lines.</sub>
 
-![Designer Man](./designerman.png)
-<sub>Designerman, a small pixel character I’m developing for fun in my spare time.</sub>
-
 ---
 
 ## 👋 Hi, I’m Petri Lahdelma
@@ -29,16 +26,25 @@ I’m a design-systems-focused builder working at the intersection of **frontend
 - **Open source, developer experience & Audio @ [KnobSmith Audio →](https://knobsmithaudio.com)**  
   I’m deeply interested in how tools are *actually* used by developers: clear APIs, boring reliability, observable systems, and documentation that doesn’t lie. I enjoy experimenting with open source, MCPs, AI coding agents, and modern frontend architectures to see where the real leverage is (and where the hype breaks).
 
+---
+
 ### How I think
 - Systems > pixels  
 - Deterministic foundations + probabilistic AI on top  
 - PLG beats decks, but fundamentals beat both  
 - “Simple” is usually the hardest thing to ship
 
+---
+
+![Designer Man](./designerman.png)
+<sub>Designerman, a small pixel character I’m developing for fun in my spare time.</sub>
+
 ### 🛠️ Things I enjoy nerding out about
 `Design Systems` · `React / TypeScript` · `Storybook` · `Next.js` · `AI & LLM tooling` ·  
 `APIs & async pipelines` · `Developer experience` · `Observability` · `DesignOps` · `PC & Games Consoles` ·  
 `SaaS unit economics` · `Shipping > theorizing`
+
+---
 
 ### Besides design and code
 I also make music, experiment visually, and enjoy exploring the creative edges where structure meets chaos. I’m trying to be as outdoorsy as possible, curious by default, but happiest when building something that didn’t exist yesterday.
