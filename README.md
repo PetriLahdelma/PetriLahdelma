@@ -44,9 +44,9 @@ Founder. API-first platform for automated accessibility and UX audits. Async pip
 
 ## How I Think
 
-- **Systems > pixels** — Components that compose, not one-off designs
-- **Deterministic foundations + probabilistic AI** — Type safety where it matters, LLMs where they help
-- **Ship > theorize** — Working software beats slide decks
+- **Systems > pixels**: Components that compose, not one-off designs
+- **Deterministic foundations + probabilistic AI**: Type safety where it matters, LLMs where they help
+- **Ship > theorize**: Working software beats slide decks
 
 ---
 
