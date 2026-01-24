@@ -1,53 +1,58 @@
 ![Petri](./petri.png)
-<sub>Work: AI and Design Systems. Therapy: horizon lines.</sub>
+
+# Petri Lahdelma
+
+**Design Systems Lead @ SAP Build Apps · Founder of [VertaaUX.ai](https://vertaaux.ai)**
+
+I build production-grade design systems and AI-powered developer tools. 20 years turning messy requirements into resilient platforms that teams actually want to build on.
 
 ---
 
-## 👋 Hi, I’m Petri Lahdelma
+## Start Here
 
-I’m a design-systems-focused builder working at the intersection of **frontend engineering**, **AI-assisted workflows**, and **scalable SaaS**. With nearly **20 years of experience** across graphic design, UX, and product development, I specialize in turning messy, evolving requirements into **resilient systems that are pleasant to build on**.
-
-### What I work on
-<p align="left">
-  <img alt="Digitaltableteur" src="./dt-logo@2x.png" width="125" />
-</p>
-- **Design systems at scale @ [Digitaltableteur →](https://digitaltableteur.com)**  
-  I currently lead design system work at **SAP Build Apps** and I am the founder/creative at **Digitaltableteur**, focusing on design, production-grade components, design-to-code alignment, and long-term DesignOps maturity. My day-to-day sits somewhere between Figma, Storybook, ReactTS, and the uncomfortable but necessary conversations about governance and consistency (UXC). <br /><br />
-
-<p align="left">
-  <img alt="VertaaUX.ai" src="./vertaaux@2x.png" width="135" />
-</p>
-- **AI-powered SaaS & automation @ [VertaaUX →](https://vertaaux.ai)**  
-  I’m the founder of **VertaaUX.ai**, an AI-powered UX and accessibility auditing platform built with an API-first mindset. The product explores async pipelines, LLM-assisted analysis, CI-friendly workflows, and pragmatic guardrails around correctness, security, and cost. <br /><br />
-
-<p align="left">
-  <img alt="KnobSmith Audio Plugins" src="./knobsmithaudio_logo.png" width="380" />
-</p>
-- **Open source, developer experience & Audio @ [KnobSmith Audio →](https://knobsmithaudio.com)**  
-  I’m deeply interested in how tools are *actually* used by developers: clear APIs, boring reliability, observable systems, and documentation that doesn’t lie. I enjoy experimenting with open source, MCPs, AI coding agents, and modern frontend architectures to see where the real leverage is (and where the hype breaks).
+| What | Link |
+|------|------|
+| 🤖 AI-powered reply generator | [notcringe](https://github.com/PetriLahdelma/notcringe) — [Live demo](https://notcringe.vercel.app) |
+| 🎨 Portfolio + design system | [digitaltableteur](https://github.com/PetriLahdelma/digitaltableteur) — [Live site](https://digitaltableteur.com) |
 
 ---
 
-### How I think
-- Systems > pixels  
-- Deterministic foundations + probabilistic AI on top  
-- PLG beats decks, but fundamentals beat both  
-- “Simple” is usually the hardest thing to ship
+## What I Work On
+
+<img alt="Digitaltableteur" src="./dt-logo@2x.png" width="100" />
+
+**Design Systems @ [SAP Build Apps](https://www.sap.com/products/technology-platform/build-apps.html) + [Digitaltableteur](https://digitaltableteur.com)**
+Production-grade components, design-to-code alignment, DesignOps governance. Daily stack: Figma, Storybook, React/TypeScript.
+
+<img alt="VertaaUX.ai" src="./vertaaux@2x.png" width="110" />
+
+**AI-Powered UX Auditing @ [VertaaUX.ai](https://vertaaux.ai)**
+Founder. API-first platform for automated accessibility and UX audits. Async pipelines, LLM-assisted analysis, CI integrations.
 
 ---
 
-![Designer Man](./designerman.png)
-<sub>Designerman, a small pixel character I’m developing for fun in my spare time.</sub>
+## Proof of Work
 
-### 🛠️ Things I enjoy nerding out about
-`Design Systems` · `React / TypeScript` · `Storybook` · `Next.js` · `AI & LLM tooling` ·  
-`APIs & async pipelines` · `Developer experience` · `Observability` · `DesignOps` · `PC & Games Consoles` ·  
-`SaaS unit economics` · `Shipping > theorizing`
-
-### Besides design and code
-I also make music, experiment visually, and enjoy exploring the creative edges where structure meets chaos. I’m trying to be as outdoorsy as possible, curious by default, but happiest when building something that didn’t exist yesterday.
+| Project | What It Demonstrates | Evaluate |
+|---------|---------------------|----------|
+| **[notcringe](https://github.com/PetriLahdelma/notcringe)** | Full-stack AI: LLM integration, streaming, prompt engineering, safety filters | [Try it](https://notcringe.vercel.app) |
+| **[digitaltableteur](https://github.com/PetriLahdelma/digitaltableteur)** | 50+ component design system, i18n, Storybook, Playwright, Sentry | [Live](https://digitaltableteur.com) |
+| **VertaaUX.ai** | API-first AI platform, async pipelines, CI integrations, usage metering | [Product](https://vertaaux.ai) |
+| **SAP Build Apps DS** | Enterprise design system at scale, governance, cross-team alignment | Reference on request |
 
 ---
 
-*If you’re interested in design systems, AI-powered tooling, or the unglamorous realities of building products that last, you’ll probably get along with me just fine.*
-I prefer async, so: 📫 Email: [mail [at] digitaltableteur [dot] com](mailto:mail@digitaltableteur.com) or Job Offers: 🟦 [LinkedIn →](https://www.linkedin.com/in/petrilahdelma/)
+## How I Think
+
+- **Systems > pixels** — Components that compose, not one-off designs
+- **Deterministic foundations + probabilistic AI** — Type safety where it matters, LLMs where they help
+- **Ship > theorize** — Working software beats slide decks
+
+---
+
+## Contact
+
+📧 [mail@digitaltableteur.com](mailto:mail@digitaltableteur.com)
+🔗 [LinkedIn](https://linkedin.com/in/petrilahdelma)
+
+<sub>Open to: Design Systems, AI/LLM tooling, Frontend Architecture roles</sub>
