@@ -22,7 +22,7 @@ I build production-grade design systems and AI-powered developer tools. 20 years
 <img alt="Digitaltableteur" src="./dt-logo@2x.png" width="110" />
 
 **Design Systems @ [SAP Build Apps](https://www.sap.com/products/technology-platform/build-apps.html) + [Digitaltableteur](https://digitaltableteur.com)**
-Production-grade components, design-to-code alignment, DesignOps governance. Daily stack: Figma, Storybook, React/TypeScript.
+Production-grade components, design-to-code alignment, DesignOps governance. Daily stack: Claude Code, Figma, Storybook, React/TypeScript.
 
 <img alt="VertaaUX.ai" src="./vertaaux@2x.png" width="110" />
 
