@@ -10,7 +10,9 @@ I build production-grade design systems and AI-powered developer tools. 20 years
 
 ## Start Here
 
-## 🤖 [ChatGPT: summary of my background + projects](https://chatgpt.com/s/t_697692d741e8819185f05f5751611e35)
+## 🤖 [Prompt ChatGPT: summary of my background + projects](https://chatgpt.com/s/t_697692d741e8819185f05f5751611e35)
+
+---
 
 | What                          | Link                                                                                                              |
 | ----------------------------- | ----------------------------------------------------------------------------------------------------------------- |
