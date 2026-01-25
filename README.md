@@ -26,11 +26,18 @@ I build production-grade design systems and AI-powered developer tools. 20 years
 
 **Design Systems @ [SAP Build Apps](https://www.sap.com/products/technology-platform/build-apps.html) + [Digitaltableteur](https://digitaltableteur.com)**
 Production-grade components, design-to-code alignment, DesignOps governance. Daily stack: Claude Code, Figma, Storybook, React/TypeScript.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/company/digitaltableteur/)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white)](https://www.reddit.com/user/digitaltableteur/)
+[![X](https://img.shields.io/badge/X-000000?logo=x&logoColor=white)](https://x.com/digitaltableteur)
+
 
 <img alt="VertaaUX.ai" src="./vertaaux@2x.png" width="110" />
 
 **AI-Powered UX Auditing @ [VertaaUX.ai](https://vertaaux.ai)**
 Founder. API-first platform for automated accessibility and UX audits. Async pipelines, LLM-assisted analysis, CI integrations.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/company/vertaaux/)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white)](https://www.reddit.com/user/vertaaux/)
+[![X](https://img.shields.io/badge/X-000000?logo=x&logoColor=white)](https://x.com/vertaaux)
 
 ---
 
