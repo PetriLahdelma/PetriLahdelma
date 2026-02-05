@@ -67,6 +67,20 @@ Founder. API-first platform for automated accessibility and UX audits. Async pip
 
 ---
 
+## Tooling & Actions
+
+| Tool                                                                 | Type              | Quickstart                                                                                          | Links                                                                                              |
+| -------------------------------------------------------------------- | ----------------- | --------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
+| **[it-seems-fine-linter](https://github.com/PetriLahdelma/it-seems-fine-linter)** | CLI               | `npx it-seems-fine-linter --paths src`                                                               | [npm](https://www.npmjs.com/package/it-seems-fine-linter)                                          |
+| **[works-on-my-machine-badge](https://github.com/PetriLahdelma/works-on-my-machine-badge)** | GitHub Action     | `uses: PetriLahdelma/works-on-my-machine-badge@v0`                                                   | [Marketplace](https://github.com/marketplace/actions/works-on-my-machine-badge)                   |
+| **[breakpoint-collage-diff](https://github.com/PetriLahdelma/breakpoint-collage-diff)** | CLI               | `npx breakpoint-collage-diff --url https://example.com`                                              | [npm](https://www.npmjs.com/package/breakpoint-collage-diff)                                       |
+| **[a11y-safe-autofix](https://github.com/PetriLahdelma/a11y-safe-autofix)** | CLI               | `npx a11y-safe-autofix --paths .`                                                                    | [npm](https://www.npmjs.com/package/a11y-safe-autofix)                                             |
+| **[social-preview-doctor](https://github.com/PetriLahdelma/social-preview-doctor)** | CLI + Action      | `npx social-preview-doctor https://example.com` / `uses: PetriLahdelma/social-preview-doctor@v0`     | [npm](https://www.npmjs.com/package/social-preview-doctor) • [Marketplace](https://github.com/marketplace/actions/social-preview-doctor) |
+| **[audiodiff-report](https://github.com/PetriLahdelma/audiodiff-report)** | CLI               | `npx audiodiff-report before.wav after.wav --format html --out ./audiodiff`                          | [npm](https://www.npmjs.com/package/audiodiff-report)                                              |
+| **[vf-web-kit](https://github.com/PetriLahdelma/vf-web-kit)**          | CLI               | `npx vf-web-kit path/to/font.ttf --content \"./content/**/*.{html,md,mdx,tsx}\" --out ./dist/fontkit` | [npm](https://www.npmjs.com/package/vf-web-kit)                                                    |
+
+---
+
 ## How I Think
 
 - **Systems > pixels**: Components that compose, not one-off designs
