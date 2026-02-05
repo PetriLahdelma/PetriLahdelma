@@ -1,4 +1,9 @@
-![Petri](./petri.png)
+<table>
+  <tr>
+    <td><img alt="Petri" src="./petri.png" width="220" /></td>
+    <td><img alt="Designerman" src="./designerman.png" width="220" /></td>
+  </tr>
+</table>
 
 # Petri Lahdelma
 
