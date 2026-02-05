@@ -100,7 +100,7 @@ Founder. API-first platform for automated accessibility and UX audits. Async pip
 
 ## Social
 
-Personal
+Personal  
 [![X](https://img.shields.io/badge/X-@petrilahdelma-000000?logo=x&logoColor=white)](https://x.com/petrilahdelma)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-@petrilahdelma-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/petrilahdelma/)
 [![GitHub](https://img.shields.io/badge/GitHub-@petrilahdelma-181717?logo=github&logoColor=white)](https://github.com/petrilahdelma)
@@ -111,7 +111,7 @@ Personal
 [![Dribbble](https://img.shields.io/badge/Dribbble-digitaltableteur-EA4C89?logo=dribbble&logoColor=white)](https://dribbble.com/digitaltableteur)
 [![SoundCloud](https://img.shields.io/badge/SoundCloud-randomgorsey-FF5500?logo=soundcloud&logoColor=white)](https://soundcloud.com/randomgorsey)
 
-Digitaltableteur
+Digitaltableteur  
 [![X](https://img.shields.io/badge/X-@dtdoesdesign-000000?logo=x&logoColor=white)](https://x.com/dtdoesdesign)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-digitaltableteur-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/company/digitaltableteur/)
 [![Instagram](https://img.shields.io/badge/Instagram-digitaltableteur-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/digitaltableteur/)
