@@ -95,3 +95,24 @@ Founder. API-first platform for automated accessibility and UX audits. Async pip
 🔗 [LinkedIn](https://linkedin.com/in/petrilahdelma)
 
 <sub>Open to: Design Systems, AI/LLM tooling, Frontend Architecture roles</sub>
+
+---
+
+## Social
+
+Personal
+[![X](https://img.shields.io/badge/X-@petrilahdelma-000000?logo=x&logoColor=white)](https://x.com/petrilahdelma)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-@petrilahdelma-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/petrilahdelma/)
+[![GitHub](https://img.shields.io/badge/GitHub-@petrilahdelma-181717?logo=github&logoColor=white)](https://github.com/petrilahdelma)
+[![Substack](https://img.shields.io/badge/Substack-@petrilahdelma-FF6719?logo=substack&logoColor=white)](https://substack.com/@petrilahdelma)
+[![Medium](https://img.shields.io/badge/Medium-@petrilahdelma-000000?logo=medium&logoColor=white)](https://medium.com/@petrilahdelma)
+[![Instagram](https://img.shields.io/badge/Instagram-@petrilahdelma-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/petrilahdelma/)
+[![Facebook](https://img.shields.io/badge/Facebook-petri.lahdelma-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/petri.lahdelma)
+[![Dribbble](https://img.shields.io/badge/Dribbble-digitaltableteur-EA4C89?logo=dribbble&logoColor=white)](https://dribbble.com/digitaltableteur)
+
+Digitaltableteur
+[![X](https://img.shields.io/badge/X-@dtdoesdesign-000000?logo=x&logoColor=white)](https://x.com/dtdoesdesign)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-digitaltableteur-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/company/digitaltableteur/)
+[![Instagram](https://img.shields.io/badge/Instagram-digitaltableteur-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/digitaltableteur/)
+[![Facebook](https://img.shields.io/badge/Facebook-digitaltableteur-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/digitaltableteur)
+[![Medium](https://img.shields.io/badge/Medium-digitaltableteur-000000?logo=medium&logoColor=white)](https://medium.com/digitaltableteur)
