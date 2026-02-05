@@ -49,7 +49,7 @@ Production-grade components, design-to-code alignment, DesignOps governance. Dai
 <img alt="VertaaUX.ai" src="./vertaaux@2x.png" width="110" />
 
 **AI-Powered UX Auditing @ [VertaaUX.ai](https://vertaaux.ai)**
-Founder. API-first platform for automated accessibility and UX audits. Async pipelines, LLM-assisted analysis, CI integrations.
+Founder. API-first platform for automated accessibility and UX audits. Async pipelines, LLM-assisted analysis, CLI + CI integrations.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/company/vertaaux/)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white)](https://www.reddit.com/user/vertaaux/)
