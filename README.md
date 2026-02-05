@@ -1,7 +1,7 @@
-<table>
+<table width="100%">
   <tr>
-    <td><img alt="Petri" src="./petri.png" width="260" /></td>
-    <td><img alt="Designerman" src="./designerman.png" width="260" /></td>
+    <td width="50%"><img alt="Petri" src="./petri.png" width="100%" /></td>
+    <td width="50%"><img alt="Designerman" src="./designerman.png" width="100%" /></td>
   </tr>
 </table>
 
