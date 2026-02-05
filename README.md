@@ -109,6 +109,7 @@ Personal<br><br>
 [![Instagram](https://img.shields.io/badge/Instagram-@petrilahdelma-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/petrilahdelma/)
 [![Facebook](https://img.shields.io/badge/Facebook-petri.lahdelma-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/petri.lahdelma)
 [![Dribbble](https://img.shields.io/badge/Dribbble-digitaltableteur-EA4C89?logo=dribbble&logoColor=white)](https://dribbble.com/digitaltableteur)
+[![SoundCloud](https://img.shields.io/badge/SoundCloud-petrilahdelma-FF5500?logo=soundcloud&logoColor=white)](https://soundcloud.com/petrilahdelma)
 [![SoundCloud](https://img.shields.io/badge/SoundCloud-randomgorsey-FF5500?logo=soundcloud&logoColor=white)](https://soundcloud.com/randomgorsey)
 
 Digitaltableteur<br><br>
