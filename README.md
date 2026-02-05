@@ -34,6 +34,7 @@ Selected work, systems thinking, and notes on design tooling and AI.
 
 [![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?logo=dribbble&logoColor=white)](https://dribbble.com/digitaltableteur)
 [![Product Hunt](https://img.shields.io/badge/Product%20Hunt-DA552F?logo=producthunt&logoColor=white)](https://www.producthunt.com/@petrilahdelma)
+[![X/Twitter](https://img.shields.io/badge/X-000000?logo=x&logoColor=white)](https://x.com/petrilahdelma)
 
 <img alt="Digitaltableteur" src="./dt-logo@2x.png" width="110" />
 
