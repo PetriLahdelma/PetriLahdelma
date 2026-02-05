@@ -34,7 +34,7 @@ Selected work, systems thinking, and notes on design tooling and AI.
 
 <img alt="Digitaltableteur" src="./dt-logo@2x.png" width="110" />
 
-**Design Systems @ [SAP Build Apps](https://www.sap.com/products/technology-platform/build-apps.html) + [Digitaltableteur](https://digitaltableteur.com)**
+**Design Systems @ [Digitaltableteur](https://digitaltableteur.com)**
 Production-grade components, design-to-code alignment, DesignOps governance. Daily stack: Claude Code, Figma, Storybook, React/TypeScript.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/company/digitaltableteur/)
