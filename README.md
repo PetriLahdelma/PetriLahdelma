@@ -32,6 +32,9 @@ I build production-grade design systems and AI-powered developer tools. 20 years
 **Personal site @ [petrilahdelma.com](https://petrilahdelma.com)**
 Selected work, systems thinking, and notes on design tooling and AI.
 
+[![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?logo=dribbble&logoColor=white)](https://dribbble.com/digitaltableteur)
+[![Product Hunt](https://img.shields.io/badge/Product%20Hunt-DA552F?logo=producthunt&logoColor=white)](https://www.producthunt.com/@petrilahdelma)
+
 <img alt="Digitaltableteur" src="./dt-logo@2x.png" width="110" />
 
 **Design Systems @ [Digitaltableteur](https://digitaltableteur.com)**
