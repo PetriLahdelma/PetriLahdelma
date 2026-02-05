@@ -27,7 +27,7 @@ I build production-grade design systems and AI-powered developer tools. 20 years
 
 ## What I Work On
 
-<img alt="petrilahdelma.com" src="./petrilahdelma.svg" width="140" />
+<img alt="petrilahdelma.com" src="./petrilahdelma.svg" width="110" />
 
 **Personal site @ [petrilahdelma.com](https://petrilahdelma.com)**
 Selected work, systems thinking, and notes on design tooling and AI.
