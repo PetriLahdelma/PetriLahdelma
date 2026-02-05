@@ -27,6 +27,11 @@ I build production-grade design systems and AI-powered developer tools. 20 years
 
 ## What I Work On
 
+<img alt="petrilahdelma.com" src="./petrilahdelma.svg" width="140" />
+
+**Personal site @ [petrilahdelma.com](https://petrilahdelma.com)**
+Selected work, systems thinking, and notes on design tooling and AI.
+
 <img alt="Digitaltableteur" src="./dt-logo@2x.png" width="110" />
 
 **Design Systems @ [SAP Build Apps](https://www.sap.com/products/technology-platform/build-apps.html) + [Digitaltableteur](https://digitaltableteur.com)**
