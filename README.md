@@ -17,7 +17,7 @@ I build production-grade design systems and AI-powered developer tools. 20 years
 
 I lead design systems and frontend architecture, and I ship practical AI tooling for product teams.
 
-- 20 years in frontend + product engineering
+- 20 years in Design + Design Systems. Self taught in development.
 - Design Systems @ Digitaltableteur
 - Founder of VertaaUX.ai (AI-powered UX and accessibility auditing)
 
@@ -62,7 +62,8 @@ I lead design systems and frontend architecture, and I ship practical AI tooling
       <a href="https://x.com/vertaaux"><img alt="X" src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white" /></a>
     </td>
     <td width="50%" valign="top">
-      <strong>Now building: dev-toolbox</strong><br />
+      <img alt="dev-toolbox" src="https://raw.githubusercontent.com/PetriLahdelma/dev-toolbox/main/assets/dev-toolbox.svg" width="110" /><br />
+      <strong>Now building: <a href="https://github.com/PetriLahdelma/dev-toolbox">dev-toolbox</a></strong><br />
       In-progress toolkit for bootstrapping production-ready repos with strict standards: scaffolding, repo profiles, QA checks, and release hygiene.<br /><br />
       <img alt="Status" src="https://img.shields.io/badge/Status-In%20Progress-0A66C2" />
       <img alt="Type" src="https://img.shields.io/badge/Type-Developer%20Toolbox-111111" />
