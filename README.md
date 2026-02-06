@@ -63,7 +63,7 @@ I lead design systems and frontend architecture, and I ship practical AI tooling
     </td>
     <td width="50%" valign="top">
       <img alt="dev-toolbox" src="https://raw.githubusercontent.com/PetriLahdelma/dev-toolbox/main/assets/dev-toolbox.svg" width="110" /><br />
-      <strong>Now building: <a href="https://github.com/PetriLahdelma/dev-toolbox">dev-toolbox</a></strong><br />
+      <strong><a href="https://github.com/PetriLahdelma/dev-toolbox">Dev Toolbox (development toolkit)</a></strong><br />
       In-progress toolkit for bootstrapping production-ready repos with strict standards: scaffolding, repo profiles, QA checks, and release hygiene.<br /><br />
       <img alt="Status" src="https://img.shields.io/badge/Status-In%20Progress-0A66C2" />
       <img alt="Type" src="https://img.shields.io/badge/Type-Developer%20Toolbox-111111" />
