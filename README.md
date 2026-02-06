@@ -24,10 +24,24 @@ I lead design systems and frontend architecture, and I ship practical AI tooling
 **Optional deep summary:** 🤖 [Ask ChatGPT for my background + projects](https://chatgpt.com/s/t_697692d741e8819185f05f5751611e35)
 
 
-| What                          | Link                                                                                                              |
-| ----------------------------- | ----------------------------------------------------------------------------------------------------------------- |
-| 🤖 AI-powered reply generator | [notcringe](https://github.com/PetriLahdelma/notcringe) — [Live demo](https://notcringe.vercel.app)               |
-| 🎨 Portfolio + design system  | [digitaltableteur](https://github.com/PetriLahdelma/digitaltableteur) — [Live site](https://digitaltableteur.com) |
+<table width="100%">
+  <thead>
+    <tr>
+      <th align="left">What</th>
+      <th align="left">Link</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>🤖 AI-powered reply generator</td>
+      <td><a href="https://github.com/PetriLahdelma/notcringe">notcringe</a> — <a href="https://notcringe.vercel.app">Live demo</a></td>
+    </tr>
+    <tr>
+      <td>🎨 Portfolio + design system</td>
+      <td><a href="https://github.com/PetriLahdelma/digitaltableteur">digitaltableteur</a> — <a href="https://digitaltableteur.com">Live site</a></td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
@@ -102,15 +116,46 @@ I lead design systems and frontend architecture, and I ship practical AI tooling
 
 _Last updated: <!-- LATEST_SHIPPED_TIMESTAMP_START -->2026-02-05 21:31 UTC<!-- LATEST_SHIPPED_TIMESTAMP_END -->_
 
+<table width="100%">
+  <thead>
+    <tr>
+      <th align="left">Project</th>
+      <th align="right">Release date</th>
+    </tr>
+  </thead>
+  <tbody>
 <!-- LATEST_SHIPPED_START -->
-- [`vf-web-kit` v0.1.1](https://github.com/PetriLahdelma/vf-web-kit/releases/tag/v0.1.1) · released 2026-02-05
-- [`audiodiff-report` v0.1.1](https://github.com/PetriLahdelma/audiodiff-report/releases/tag/v0.1.1) · released 2026-02-05
-- [`social-preview-doctor` v0.1.1](https://github.com/PetriLahdelma/social-preview-doctor/releases/tag/v0.1.1) · released 2026-02-05
-- [`a11y-safe-autofix` v0.1.1](https://github.com/PetriLahdelma/a11y-safe-autofix/releases/tag/v0.1.1) · released 2026-02-05
-- [`breakpoint-collage-diff` v0.1.1](https://github.com/PetriLahdelma/breakpoint-collage-diff/releases/tag/v0.1.1) · released 2026-02-05
-- [`works-on-my-machine-badge` v0.1.1](https://github.com/PetriLahdelma/works-on-my-machine-badge/releases/tag/v0.1.1) · released 2026-02-05
-- [`it-seems-fine-linter` v0.1.1](https://github.com/PetriLahdelma/it-seems-fine-linter/releases/tag/v0.1.1) · released 2026-02-05
+    <tr>
+      <td><a href="https://github.com/PetriLahdelma/vf-web-kit/releases/tag/v0.1.1"><code>vf-web-kit</code> v0.1.1</a></td>
+      <td align="right">2026-02-05</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/PetriLahdelma/audiodiff-report/releases/tag/v0.1.1"><code>audiodiff-report</code> v0.1.1</a></td>
+      <td align="right">2026-02-05</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/PetriLahdelma/social-preview-doctor/releases/tag/v0.1.1"><code>social-preview-doctor</code> v0.1.1</a></td>
+      <td align="right">2026-02-05</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/PetriLahdelma/a11y-safe-autofix/releases/tag/v0.1.1"><code>a11y-safe-autofix</code> v0.1.1</a></td>
+      <td align="right">2026-02-05</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/PetriLahdelma/breakpoint-collage-diff/releases/tag/v0.1.1"><code>breakpoint-collage-diff</code> v0.1.1</a></td>
+      <td align="right">2026-02-05</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/PetriLahdelma/works-on-my-machine-badge/releases/tag/v0.1.1"><code>works-on-my-machine-badge</code> v0.1.1</a></td>
+      <td align="right">2026-02-05</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/PetriLahdelma/it-seems-fine-linter/releases/tag/v0.1.1"><code>it-seems-fine-linter</code> v0.1.1</a></td>
+      <td align="right">2026-02-05</td>
+    </tr>
 <!-- LATEST_SHIPPED_END -->
+  </tbody>
+</table>
 
 ---
 
