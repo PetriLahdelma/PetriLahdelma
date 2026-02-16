@@ -114,7 +114,7 @@ I lead design systems and frontend architecture, and I ship practical AI tooling
 
 ## Latest Shipped
 
-_Last updated: <!-- LATEST_SHIPPED_TIMESTAMP_START -->2026-02-16 22:42 UTC<!-- LATEST_SHIPPED_TIMESTAMP_END -->_
+_Last updated: <!-- LATEST_SHIPPED_TIMESTAMP_START -->2026-02-16 22:46 UTC<!-- LATEST_SHIPPED_TIMESTAMP_END -->_
 
 <table width="100%">
   <thead>
