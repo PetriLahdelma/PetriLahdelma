@@ -114,7 +114,7 @@ I lead design systems and frontend architecture, and I ship practical AI tooling
 
 ## Latest Shipped
 
-_Last updated: <!-- LATEST_SHIPPED_TIMESTAMP_START -->2026-02-05 21:31 UTC<!-- LATEST_SHIPPED_TIMESTAMP_END -->_
+_Last updated: <!-- LATEST_SHIPPED_TIMESTAMP_START -->2026-02-16 22:42 UTC<!-- LATEST_SHIPPED_TIMESTAMP_END -->_
 
 <table width="100%">
   <thead>
@@ -125,6 +125,10 @@ _Last updated: <!-- LATEST_SHIPPED_TIMESTAMP_START -->2026-02-05 21:31 UTC<!-- L
   </thead>
   <tbody>
 <!-- LATEST_SHIPPED_START -->
+    <tr>
+      <td><a href="https://github.com/PetriLahdelma/stylelint-plugin-rhythmguard/releases/tag/v0.1.0"><code>stylelint-plugin-rhythmguard</code> v0.1.0</a></td>
+      <td align="right">2026-02-16</td>
+    </tr>
     <tr>
       <td><a href="https://github.com/PetriLahdelma/vf-web-kit/releases/tag/v0.1.1"><code>vf-web-kit</code> v0.1.1</a></td>
       <td align="right">2026-02-05</td>
