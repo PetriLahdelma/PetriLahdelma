@@ -23,7 +23,6 @@ I lead design systems and frontend architecture, and I ship practical AI tooling
 **Optional deep summary:** 🤖 [Ask ChatGPT for my background + projects](https://chatgpt.com/s/t_697692d741e8819185f05f5751611e35)
 
 
----
 
 ## What I Work On
 
