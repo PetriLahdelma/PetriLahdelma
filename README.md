@@ -24,25 +24,6 @@ I lead design systems and frontend architecture, and I ship practical AI tooling
 **Optional deep summary:** 🤖 [Ask ChatGPT for my background + projects](https://chatgpt.com/s/t_697692d741e8819185f05f5751611e35)
 
 
-<table width="100%">
-  <thead>
-    <tr>
-      <th align="left">What</th>
-      <th align="left">Link</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>🤖 AI-powered reply generator</td>
-      <td><a href="https://github.com/PetriLahdelma/notcringe">notcringe</a> — <a href="https://notcringe.vercel.app">Live demo</a></td>
-    </tr>
-    <tr>
-      <td>🎨 Portfolio + design system</td>
-      <td><a href="https://github.com/PetriLahdelma/digitaltableteur">digitaltableteur</a> — <a href="https://digitaltableteur.com">Live site</a></td>
-    </tr>
-  </tbody>
-</table>
-
 ---
 
 ## What I Work On
