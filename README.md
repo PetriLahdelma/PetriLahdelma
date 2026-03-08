@@ -11,7 +11,6 @@
 
 I build production-grade design systems and AI-powered developer tools. 20 years turning messy requirements into resilient platforms that teams actually want to build on.
 
----
 
 ## About
 
