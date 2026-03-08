@@ -13,7 +13,7 @@ I build production-grade design systems and AI-powered developer tools. 20 years
 
 ---
 
-## Start Here (20 seconds)
+## About
 
 I lead design systems and frontend architecture, and I ship practical AI tooling for product teams.
 
