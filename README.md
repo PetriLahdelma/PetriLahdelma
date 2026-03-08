@@ -91,10 +91,10 @@ I lead design systems and frontend architecture, and I ship practical AI tooling
 
 | Project                                                                   | What It Demonstrates                                                          | Evaluate                               |
 | ------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | -------------------------------------- |
-| **[notcringe](https://github.com/PetriLahdelma/notcringe)**               | Full-stack AI: LLM integration, streaming, prompt engineering, safety filters | [Try it](https://notcringe.vercel.app) |
-| **[digitaltableteur](https://github.com/PetriLahdelma/digitaltableteur)** | 50+ component design system, i18n, Storybook, Playwright, Sentry              | [Live](https://digitaltableteur.com)   |
-| **VertaaUX.ai**                                                           | API-first AI platform, async pipelines, CI integrations, usage metering       | [Product](https://vertaaux.ai)         |
-| **SAP Build Apps DS**                                                     | Enterprise design system at scale, governance, cross-team alignment           | Reference on request                   |
+| **[notcringe](https://github.com/PetriLahdelma/notcringe)**               | Full-stack AI: LLM integration, streaming, prompt engineering, safety filters | [Try WIP](https://notcringe.vercel.app) |
+| **[digitaltableteur](https://github.com/PetriLahdelma/digitaltableteur)** | 50+ component design system, i18n, Storybook, Playwright, Sentry              | [Visit](https://digitaltableteur.com)   |
+| **[VertaaUX.ai](https://vertaaux.ai)**                                    | API-first AI platform, async pipelines, CI integrations, usage metering       | [Product](https://vertaaux.ai)         |
+| **[SAP Build Apps DS](https://www.sap.com/design-system/)**               | Enterprise design system at scale, governance, cross-team alignment           | NDA                   |
 
 ---
 
