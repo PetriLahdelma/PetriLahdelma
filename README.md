@@ -10,9 +10,9 @@
 **Design Systems @ Digitaltableteur · Founder of [VertaaUX.ai](https://vertaaux.ai)**
 
 I build production-grade design systems and AI-powered developer tools. 20 years turning messy requirements into resilient platforms that teams actually want to build on.
----
+
 <sub><strong>20 years in Design</strong> · Design Systems · React/TypeScript · AI workflow tooling · A11y · Storybook · Figma-to-code · Design Ops and DS Governance</sub>
----
+
 
 ## About
 
