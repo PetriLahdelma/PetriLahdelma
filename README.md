@@ -11,6 +11,8 @@
 
 I build production-grade design systems and AI-powered developer tools. 20 years turning messy requirements into resilient platforms that teams actually want to build on.
 
+<p><strong>20 years in Design</strong> · Design Systems · React/TypeScript · AI workflow tooling · A11y · Storybook · Figma-to-code · Design Ops and DS Governance</p>
+
 
 ## About
 
@@ -77,21 +79,7 @@ I lead design systems and frontend architecture, and I ship practical AI tooling
 
 ---
 
-## Tooling & Actions
-
-| Tool                                                                 | Type              | Quickstart                                                                                          | Links                                                                                              |
-| -------------------------------------------------------------------- | ----------------- | --------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
-| **[it-seems-fine-linter](https://github.com/PetriLahdelma/it-seems-fine-linter)** | CLI               | `npx it-seems-fine-linter --paths src`                                                               | [npm](https://www.npmjs.com/package/it-seems-fine-linter)                                          |
-| **[works-on-my-machine-badge](https://github.com/PetriLahdelma/works-on-my-machine-badge)** | GitHub Action     | `uses: PetriLahdelma/works-on-my-machine-badge@v0`                                                   | [Marketplace](https://github.com/marketplace/actions/works-on-my-machine-badge)                   |
-| **[breakpoint-collage-diff](https://github.com/PetriLahdelma/breakpoint-collage-diff)** | CLI               | `npx breakpoint-collage-diff --url https://example.com`                                              | [npm](https://www.npmjs.com/package/breakpoint-collage-diff)                                       |
-| **[a11y-safe-autofix](https://github.com/PetriLahdelma/a11y-safe-autofix)** | CLI               | `npx a11y-safe-autofix --paths .`                                                                    | [npm](https://www.npmjs.com/package/a11y-safe-autofix)                                             |
-| **[social-preview-doctor](https://github.com/PetriLahdelma/social-preview-doctor)** | CLI + Action      | `npx social-preview-doctor https://example.com` / `uses: PetriLahdelma/social-preview-doctor@v0`     | [npm](https://www.npmjs.com/package/social-preview-doctor) • [Marketplace](https://github.com/marketplace/actions/social-preview-doctor) |
-| **[audiodiff-report](https://github.com/PetriLahdelma/audiodiff-report)** | CLI               | `npx audiodiff-report before.wav after.wav --format html --out ./audiodiff`                          | [npm](https://www.npmjs.com/package/audiodiff-report)                                              |
-| **[vf-web-kit](https://github.com/PetriLahdelma/vf-web-kit)**          | CLI               | `npx vf-web-kit path/to/font.ttf --content \"./content/**/*.{html,md,mdx,tsx}\" --out ./dist/fontkit` | [npm](https://www.npmjs.com/package/vf-web-kit)                                                    |
-
----
-
-## Latest Shipped
+## Recent Shipped Work
 
 _Last updated: <!-- LATEST_SHIPPED_TIMESTAMP_START -->2026-05-19 08:00 UTC<!-- LATEST_SHIPPED_TIMESTAMP_END -->_
 
@@ -139,6 +127,20 @@ _Last updated: <!-- LATEST_SHIPPED_TIMESTAMP_START -->2026-05-19 08:00 UTC<!-- L
 - **Systems > pixels**: Components that compose, not one-off designs
 - **Deterministic foundations + probabilistic AI**: Type safety where it matters, LLMs where they help
 - **Ship > theorize**: Working software beats slide decks
+
+---
+
+## Open-Source Tools
+
+| Tool                                                                 | Type              | Quickstart                                                                                          | Links                                                                                              |
+| -------------------------------------------------------------------- | ----------------- | --------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
+| **[it-seems-fine-linter](https://github.com/PetriLahdelma/it-seems-fine-linter)** | CLI               | `npx it-seems-fine-linter --paths src`                                                               | [npm](https://www.npmjs.com/package/it-seems-fine-linter)                                          |
+| **[works-on-my-machine-badge](https://github.com/PetriLahdelma/works-on-my-machine-badge)** | GitHub Action     | `uses: PetriLahdelma/works-on-my-machine-badge@v0`                                                   | [Marketplace](https://github.com/marketplace/actions/works-on-my-machine-badge)                   |
+| **[breakpoint-collage-diff](https://github.com/PetriLahdelma/breakpoint-collage-diff)** | CLI               | `npx breakpoint-collage-diff --url https://example.com`                                              | [npm](https://www.npmjs.com/package/breakpoint-collage-diff)                                       |
+| **[a11y-safe-autofix](https://github.com/PetriLahdelma/a11y-safe-autofix)** | CLI               | `npx a11y-safe-autofix --paths .`                                                                    | [npm](https://www.npmjs.com/package/a11y-safe-autofix)                                             |
+| **[social-preview-doctor](https://github.com/PetriLahdelma/social-preview-doctor)** | CLI + Action      | `npx social-preview-doctor https://example.com` / `uses: PetriLahdelma/social-preview-doctor@v0`     | [npm](https://www.npmjs.com/package/social-preview-doctor) • [Marketplace](https://github.com/marketplace/actions/social-preview-doctor) |
+| **[audiodiff-report](https://github.com/PetriLahdelma/audiodiff-report)** | CLI               | `npx audiodiff-report before.wav after.wav --format html --out ./audiodiff`                          | [npm](https://www.npmjs.com/package/audiodiff-report)                                              |
+| **[vf-web-kit](https://github.com/PetriLahdelma/vf-web-kit)**          | CLI               | `npx vf-web-kit path/to/font.ttf --content \"./content/**/*.{html,md,mdx,tsx}\" --out ./dist/fontkit` | [npm](https://www.npmjs.com/package/vf-web-kit)                                                    |
 
 ---
 
