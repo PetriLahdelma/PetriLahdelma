@@ -55,11 +55,11 @@ I lead design systems and frontend architecture, and I ship practical AI tooling
       <a href="https://x.com/vertaaux"><img alt="X" src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white" /></a>
     </td>
     <td width="50%" valign="top">
-      <img alt="dev-toolbox" src="https://raw.githubusercontent.com/PetriLahdelma/dev-toolbox/main/assets/dev-toolbox.svg" width="110" /><br />
-      <strong><a href="https://github.com/PetriLahdelma/dev-toolbox">Dev Toolbox (development toolkit)</a></strong><br />
-      In-progress toolkit for bootstrapping production-ready repos with strict standards: scaffolding, repo profiles, QA checks, and release hygiene.<br /><br />
-      <img alt="Status" src="https://img.shields.io/badge/Status-In%20Progress-0A66C2" />
-      <img alt="Type" src="https://img.shields.io/badge/Type-Developer%20Toolbox-111111" />
+      <img alt="Stylelint plugin Rhythmguard" src="./rhythmguard-icon@2x.png" width="110" /><br />
+      <strong><a href="https://github.com/PetriLahdelma/stylelint-plugin-rhythmguard">Stylelint Plugin Rhythmguard</a></strong><br />
+      Token governance for CSS and Tailwind: enforce spacing scales, require design tokens, and catch arbitrary values before they ship.<br /><br />
+      <a href="https://www.npmjs.com/package/stylelint-plugin-rhythmguard"><img alt="npm" src="https://img.shields.io/npm/v/stylelint-plugin-rhythmguard?label=npm" /></a>
+      <img alt="Type" src="https://img.shields.io/badge/Type-Stylelint%20Plugin-111111" />
     </td>
   </tr>
 </table>
