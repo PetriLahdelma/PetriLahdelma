@@ -6,7 +6,7 @@
 </table>
 
 # Petri Lahdelma
-<sub><strong>20 years in Design</strong> · Design Systems · React/TypeScript · AI workflow tooling · A11y · Storybook · Figma-to-code · Design Ops and DS Governance</sub>
+<sub><strong>Design Leadership</strong> · Design Systems · React/TypeScript · AI workflow tooling · A11y · Storybook · Figma-to-code · Design Ops and DS Governance</sub>
 
 **Design Systems @ Digitaltableteur · Founder of [VertaaUX.ai](https://vertaaux.ai)**
 
