@@ -93,48 +93,40 @@ I lead design systems and frontend architecture, and I ship practical AI tooling
 
 ## Latest Shipped
 
-_Last updated: <!-- LATEST_SHIPPED_TIMESTAMP_START -->2026-02-17 00:16 UTC<!-- LATEST_SHIPPED_TIMESTAMP_END -->_
+_Last updated: <!-- LATEST_SHIPPED_TIMESTAMP_START -->2026-05-19 08:00 UTC<!-- LATEST_SHIPPED_TIMESTAMP_END -->_
 
 <table width="100%">
   <thead>
     <tr>
       <th align="left">Project</th>
-      <th align="right">Release date</th>
+      <th align="left">Current shipped signal</th>
     </tr>
   </thead>
   <tbody>
 <!-- LATEST_SHIPPED_START -->
     <tr>
-      <td><a href="https://www.npmjs.com/package/stylelint-plugin-rhythmguard/v/1.0.0"><code>stylelint-plugin-rhythmguard</code> v1.0.0</a></td>
-      <td align="right">2026-02-17</td>
+      <td><strong><a href="https://vertaaux.ai">VertaaUX.ai</a></strong></td>
+      <td>AI UX + accessibility auditing platform: v4.3 commercial experimentation shipped, v4.5 design-system maturity in flight, and multi-surface distribution across web, CLI, MCP, API, GitHub Action, editor/browser extensions, Figma, SDK, and PWA.</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/PetriLahdelma/vf-web-kit/releases/tag/v0.1.1"><code>vf-web-kit</code> v0.1.1</a></td>
-      <td align="right">2026-02-05</td>
+      <td><strong><a href="https://dsharp.fi">DSharp Design System</a></strong></td>
+      <td>Client design system delivery for the DSharp platform: 112 React components, 0 alpha components, z-index token scale, reduced-motion verification, Storybook governance, and MCP/CLI sidecars for agent-safe consumption.</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/PetriLahdelma/audiodiff-report/releases/tag/v0.1.1"><code>audiodiff-report</code> v0.1.1</a></td>
-      <td align="right">2026-02-05</td>
+      <td><strong><a href="https://petrilahdelma.com">petrilahdelma.com</a></strong></td>
+      <td>Personal design-systems and AI workflow site with work case studies, writing, glossary, toolbox downloads, contact flows, analytics, and SEO automation.</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/PetriLahdelma/social-preview-doctor/releases/tag/v0.1.1"><code>social-preview-doctor</code> v0.1.1</a></td>
-      <td align="right">2026-02-05</td>
+      <td><strong><a href="https://seppo.io">Seppo AI consultancy</a></strong></td>
+      <td>Client MVP and Storybook system for gamified training: Kesko / EY pilot shell, onboarding flow, board progression, AI-assisted exercise generation, result moments, and white-label theming.</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/PetriLahdelma/a11y-safe-autofix/releases/tag/v0.1.1"><code>a11y-safe-autofix</code> v0.1.1</a></td>
-      <td align="right">2026-02-05</td>
+      <td><strong><a href="https://digitaltableteur.com">Digitaltableteur</a></strong></td>
+      <td>Design systems consultancy surface for production-grade components, design-to-code alignment, AI-assisted DesignOps, and practical systems writing.</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/PetriLahdelma/breakpoint-collage-diff/releases/tag/v0.1.1"><code>breakpoint-collage-diff</code> v0.1.1</a></td>
-      <td align="right">2026-02-05</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/PetriLahdelma/works-on-my-machine-badge/releases/tag/v0.1.1"><code>works-on-my-machine-badge</code> v0.1.1</a></td>
-      <td align="right">2026-02-05</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/PetriLahdelma/it-seems-fine-linter/releases/tag/v0.1.1"><code>it-seems-fine-linter</code> v0.1.1</a></td>
-      <td align="right">2026-02-05</td>
+      <td><strong><a href="https://github.com/PetriLahdelma/stylelint-plugin-rhythmguard">Stylelint Plugin Rhythmguard</a></strong></td>
+      <td>Token governance for CSS and Tailwind: v1.6.0 shipped with Audit 2.0 design-system drift reporting.</td>
     </tr>
 <!-- LATEST_SHIPPED_END -->
   </tbody>
