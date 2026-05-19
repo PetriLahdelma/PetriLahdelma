@@ -47,7 +47,7 @@ I lead design systems and frontend architecture, and I ship practical AI tooling
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <img alt="VertaaUX.ai" src="./vertaaux@2x.png" width="110" /><br />
+      <img alt="VertaaUX.ai" src="./vertaaux-mint-on-black.svg" width="110" /><br />
       <strong>AI-Powered UX Auditing @ <a href="https://vertaaux.ai">VertaaUX.ai</a></strong><br />
       Founder. API-first platform for automated accessibility and UX audits. Async pipelines, LLM-assisted analysis, CLI + CI integrations.<br /><br />
       <a href="https://www.linkedin.com/company/vertaaux/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" /></a>
