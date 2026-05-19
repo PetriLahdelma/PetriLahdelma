@@ -79,7 +79,7 @@ I lead design systems and frontend architecture, and I ship practical AI tooling
 
 ---
 
-## Recent Shipped Work
+## Recently Shipped
 
 _Last updated: <!-- LATEST_SHIPPED_TIMESTAMP_START -->2026-05-19 08:00 UTC<!-- LATEST_SHIPPED_TIMESTAMP_END -->_
 
@@ -120,15 +120,6 @@ _Last updated: <!-- LATEST_SHIPPED_TIMESTAMP_START -->2026-05-19 08:00 UTC<!-- L
   </tbody>
 </table>
 
----
-
-## How I Think
-
-- **Systems > pixels**: Components that compose, not one-off designs
-- **Deterministic foundations + probabilistic AI**: Type safety where it matters, LLMs where they help
-- **Ship > theorize**: Working software beats slide decks
-
----
 
 ## Open-Source Tools
 
@@ -141,6 +132,14 @@ _Last updated: <!-- LATEST_SHIPPED_TIMESTAMP_START -->2026-05-19 08:00 UTC<!-- L
 | **[social-preview-doctor](https://github.com/PetriLahdelma/social-preview-doctor)** | CLI + Action      | `npx social-preview-doctor https://example.com` / `uses: PetriLahdelma/social-preview-doctor@v0`     | [npm](https://www.npmjs.com/package/social-preview-doctor) • [Marketplace](https://github.com/marketplace/actions/social-preview-doctor) |
 | **[audiodiff-report](https://github.com/PetriLahdelma/audiodiff-report)** | CLI               | `npx audiodiff-report before.wav after.wav --format html --out ./audiodiff`                          | [npm](https://www.npmjs.com/package/audiodiff-report)                                              |
 | **[vf-web-kit](https://github.com/PetriLahdelma/vf-web-kit)**          | CLI               | `npx vf-web-kit path/to/font.ttf --content \"./content/**/*.{html,md,mdx,tsx}\" --out ./dist/fontkit` | [npm](https://www.npmjs.com/package/vf-web-kit)                                                    |
+
+---
+
+## How I Think
+
+- **Systems > pixels**: Components that compose, not one-off designs
+- **Deterministic foundations + probabilistic AI**: Type safety where it matters, LLMs where they help
+- **Ship > theorize**: Working software beats slide decks
 
 ---
 
