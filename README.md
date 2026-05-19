@@ -29,7 +29,7 @@ I lead design systems and frontend architecture, and I ship practical AI tooling
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <img alt="petrilahdelma.com" src="./petrilahdelma.svg" width="110" /><br />
+      <a href="https://petrilahdelma.com"><img alt="petrilahdelma.com" src="./petrilahdelma.svg" width="110" /></a><br />
       <strong>Personal site @ <a href="https://petrilahdelma.com">petrilahdelma.com</a></strong><br />
       Selected work, systems thinking, and notes on design tooling and AI.<br /><br />
       <a href="https://dribbble.com/digitaltableteur"><img alt="Dribbble" src="https://img.shields.io/badge/Dribbble-EA4C89?logo=dribbble&logoColor=white" /></a>
@@ -37,7 +37,7 @@ I lead design systems and frontend architecture, and I ship practical AI tooling
       <a href="https://x.com/petrilahdelma"><img alt="X" src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white" /></a>
     </td>
     <td width="50%" valign="top">
-      <img alt="Digitaltableteur" src="./dt-logo@2x.png" width="110" /><br />
+      <a href="https://digitaltableteur.com"><img alt="Digitaltableteur" src="./dt-logo@2x.png" width="110" /></a><br />
       <strong>Design Systems @ <a href="https://digitaltableteur.com">Digitaltableteur</a></strong><br />
       Production-grade components, design-to-code alignment, and DesignOps governance. Daily stack: Claude Code, Figma, Storybook, React/TypeScript.<br /><br />
       <a href="https://www.linkedin.com/company/digitaltableteur/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" /></a>
@@ -47,7 +47,7 @@ I lead design systems and frontend architecture, and I ship practical AI tooling
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <img alt="VertaaUX.ai" src="./vertaaux-round.png" width="110" /><br />
+      <a href="https://vertaaux.ai"><img alt="VertaaUX.ai" src="./vertaaux-round.png" width="110" /></a><br />
       <strong>AI-Powered UX Auditing @ <a href="https://vertaaux.ai">VertaaUX.ai</a></strong><br />
       Founder. API-first platform for automated accessibility and UX audits. Async pipelines, LLM-assisted analysis, CLI + CI integrations.<br /><br />
       <a href="https://www.linkedin.com/company/vertaaux/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" /></a>
@@ -55,7 +55,7 @@ I lead design systems and frontend architecture, and I ship practical AI tooling
       <a href="https://x.com/vertaaux"><img alt="X" src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white" /></a>
     </td>
     <td width="50%" valign="top">
-      <img alt="Stylelint plugin Rhythmguard" src="./rhythmguard-icon@2x.png" width="110" /><br />
+      <a href="https://github.com/PetriLahdelma/stylelint-plugin-rhythmguard"><img alt="Stylelint plugin Rhythmguard" src="./rhythmguard-icon@2x.png" width="110" /></a><br />
       <strong><a href="https://github.com/PetriLahdelma/stylelint-plugin-rhythmguard">Stylelint Plugin Rhythmguard</a></strong><br />
       Token governance for CSS and Tailwind: enforce spacing scales, require design tokens, and catch arbitrary values before they ship.<br /><br />
       <a href="https://www.npmjs.com/package/stylelint-plugin-rhythmguard"><img alt="npm" src="https://img.shields.io/npm/v/stylelint-plugin-rhythmguard?label=npm" /></a>
