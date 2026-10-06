@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="64" role="img" aria-label="Connect on LinkedIn">
+  <style>@media (max-width:120px){.arrow{display:none}}</style>
+  <title>Connect on LinkedIn</title>
+  <rect width="100%" height="64" rx="6" fill="#0a66c2" stroke="#004182" stroke-width="2"/>
+  <text x="10" y="26" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" style="font-size:clamp(10px,9vw,15px)" font-weight="600">Connect on</text>
+  <text x="10" y="46" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" style="font-size:clamp(10px,9vw,15px)" font-weight="600">LinkedIn</text>
+  <svg class="arrow" x="100%" width="32" height="64" overflow="visible">
+    <path d="M-24 26 -14 16M-24 16h10v10" fill="none" stroke="#ffffff" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"/>
+  </svg>
+</svg>
