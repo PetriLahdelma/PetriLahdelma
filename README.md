@@ -94,7 +94,15 @@ Independent macOS apps where I explore interaction design, accessibility and loc
 
 ## I ship with
 
-<img alt="Claude, Codex, ChatGPT, Figma and Storybook" src="./assets/tools/i-ship-with-v2.svg" width="100%" />
+<p align="center">
+  <img alt="Claude" src="./assets/tools/claude-logo.svg" width="88" height="88" />
+  <img alt="Codex" src="./assets/tools/codex-logo.svg" width="88" height="88" />
+  <img alt="ChatGPT" src="./assets/tools/chatgpt-logo.svg" width="88" height="88" />
+  <img alt="Figma" src="./assets/tools/figma-logo.svg" width="88" height="88" />
+  <img alt="Storybook" src="./assets/tools/storybook-logo.svg" width="88" height="88" />
+  <img alt="TypeScript" src="./assets/tools/typescript-logo.svg" width="88" height="88" />
+  <img alt="Swift" src="./assets/tools/swift-logo.svg" width="88" height="88" />
+</p>
 
 ## How I Think
 
