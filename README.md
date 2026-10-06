@@ -72,6 +72,8 @@ I led the SAP Build Apps design system and built hundreds of accessible componen
 
 ## Independent Apps
 
+Independent macOS apps where I explore interaction design, accessibility and local-first workflows.
+
 | App | What I built | Try it |
 | --- | --- | --- |
 | **[Precedent](https://github.com/PetriLahdelma/precedent-releases)** | A local-first macOS reference workspace with on-device dictation, OCR, and source provenance. | [Download](https://github.com/PetriLahdelma/precedent-releases/releases/latest) |
