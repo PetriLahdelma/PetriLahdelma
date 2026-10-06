@@ -71,7 +71,7 @@ I led the SAP Build Apps design system. Today, I work on design systems at [Digi
 | App | What I built | Try it |
 | --- | --- | --- |
 | **[Precedent](https://github.com/PetriLahdelma/precedent-releases)** | A local-first macOS reference workspace with on-device dictation, OCR, and source provenance. | [Download](https://github.com/PetriLahdelma/precedent-releases/releases/latest) |
-| **[Ring Stats](https://github.com/PetriLahdelma/ring-stats)** | A native macOS menu-bar app for Oura metrics, with Keychain credential storage. | [Download](https://github.com/PetriLahdelma/ring-stats/releases/latest) |
+| **[Ring Stats](https://github.com/PetriLahdelma/ring-stats)** | A native macOS menu-bar app for wearable metrics, with Keychain credential storage. | [Download](https://github.com/PetriLahdelma/ring-stats/releases/latest) |
 | **[Home Remote](https://github.com/PetriLahdelma/home-remote-updates)** | Local TV control through a macOS app, CLI, and MCP server; built as home-tv-mcp. | [Download](https://github.com/PetriLahdelma/home-remote-updates/releases/latest) |
 
 ---
