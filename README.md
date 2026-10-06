@@ -12,37 +12,58 @@ I led the SAP Build Apps design system. Today, I work on design systems at [Digi
 
 <br clear="all" />
 
-## Selected Work
+## What I Work On
 
-### Enterprise delivery · SAP Build Apps
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://petrilahdelma.com"><img alt="petrilahdelma.com" src="./petrilahdelma.svg" width="110" /></a><br />
+      <strong>Personal site @ <a href="https://petrilahdelma.com">petrilahdelma.com</a></strong><br />
+      Selected work, systems thinking, and notes on design tooling and AI.<br /><br />
+      <a href="https://dribbble.com/digitaltableteur"><img alt="Dribbble" src="https://img.shields.io/badge/Dribbble-EA4C89?logo=dribbble&logoColor=white" /></a>
+      <a href="https://www.producthunt.com/@petrilahdelma"><img alt="Product Hunt" src="https://img.shields.io/badge/Product%20Hunt-DA552F?logo=producthunt&logoColor=white" /></a>
+      <a href="https://x.com/petrilahdelma"><img alt="X" src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white" /></a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://digitaltableteur.com"><img alt="Digitaltableteur" src="./dt-logo@2x.png" width="110" /></a><br />
+      <strong>Design Systems @ <a href="https://digitaltableteur.com">Digitaltableteur</a></strong><br />
+      Component libraries, design-to-code alignment, and DesignOps governance. Daily stack: Claude Code, Figma, Storybook, React/TypeScript.<br /><br />
+      <a href="https://www.linkedin.com/company/digitaltableteur/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" /></a>
+      <a href="https://www.reddit.com/user/digitaltableteur/"><img alt="Reddit" src="https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white" /></a>
+      <a href="https://x.com/digitaltableteur"><img alt="X" src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://vertaaux.ai"><img alt="VertaaUX.ai" src="./vertaaux-round.png" width="110" /></a><br />
+      <strong>AI-Powered UX Auditing @ <a href="https://vertaaux.ai">VertaaUX.ai</a></strong><br />
+      Founder. API-first platform for automated accessibility and UX audits. Async pipelines, LLM-assisted analysis, CLI + CI integrations.<br /><br />
+      <a href="https://www.linkedin.com/company/vertaaux/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" /></a>
+      <a href="https://www.reddit.com/user/vertaaux/"><img alt="Reddit" src="https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white" /></a>
+      <a href="https://x.com/vertaaux"><img alt="X" src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white" /></a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/PetriLahdelma/stylelint-plugin-rhythmguard"><img alt="Stylelint plugin Rhythmguard" src="./rhythmguard-icon@2x.png" width="110" /></a><br />
+      <strong><a href="https://github.com/PetriLahdelma/stylelint-plugin-rhythmguard">Stylelint Plugin Rhythmguard</a></strong><br />
+      Token governance for CSS and Tailwind: enforce spacing scales, require design tokens, and catch arbitrary values before they ship.<br /><br />
+      <a href="https://www.npmjs.com/package/stylelint-plugin-rhythmguard"><img alt="npm" src="https://img.shields.io/npm/v/stylelint-plugin-rhythmguard?label=npm" /></a>
+      <img alt="Type" src="https://img.shields.io/badge/Type-Stylelint%20Plugin-111111" />
+    </td>
+  </tr>
+</table>
 
-**Design System Lead.** My responsibilities covered system architecture, component design, documentation, and design-to-code translation, including the specification of the enterprise data table.
+---
 
-The work connected Figma and React components through shared tokens, accessibility requirements, Storybook documentation, and a component review and release process.
+## Proof of Work
 
-[Read the case study](https://digitaltableteur.com/work/sap-build-apps)
-
-### Systems and tooling · Rhythmguard
-
-**Creator and maintainer.** I built Rhythmguard to make design-system rules enforceable in CSS and Tailwind: check spacing scales, require tokens, and identify drift in code.
-
-Autofix and audit reports turn those rules into checks developers can run locally and in CI.
-
-[Source & documentation](https://github.com/PetriLahdelma/stylelint-plugin-rhythmguard) · [npm package](https://www.npmjs.com/package/stylelint-plugin-rhythmguard)
-
-### Product ownership · VertaaUX
-
-**Founder and builder.** VertaaUX brings accessibility and UX auditing into a product workflow, with a web interface, API, and CLI integrations.
-
-My work connects the audit experience with asynchronous processing and LLM-assisted analysis, from requesting an audit to reviewing its findings.
-
-[Explore the product](https://vertaaux.ai)
-
-### More systems work
-
-- **[Project Spine](https://github.com/PetriLahdelma/project-spine)** — repo-native project context, agent instructions, design-token inputs, and drift checks. [Product](https://projectspine.dev)
-- **[DSharp Design System](https://digitaltableteur.com/work/dsharp-design-system)** — client design-system delivery covering React components, token governance, and Storybook documentation.
-- **BountyOps (private)** — governance tooling for security research: explicit scope and contract gates, traceable evidence, and human review before submission.
+| Project | My role & what it demonstrates | Explore |
+| --- | --- | --- |
+| **[SAP Build Apps DS](https://digitaltableteur.com/work/sap-build-apps)** | Design System Lead: system architecture, component design, documentation, and Figma-to-React alignment. | [Case study](https://digitaltableteur.com/work/sap-build-apps) |
+| **[Rhythmguard](https://github.com/PetriLahdelma/stylelint-plugin-rhythmguard)** | Creator and maintainer: CSS and Tailwind token governance, spacing checks, autofix, and drift reports. | [npm](https://www.npmjs.com/package/stylelint-plugin-rhythmguard) |
+| **[VertaaUX.ai](https://vertaaux.ai)** | Founder and builder: accessibility and UX auditing across web, API, and CLI workflows. | [Product](https://vertaaux.ai) |
+| **[Project Spine](https://github.com/PetriLahdelma/project-spine)** | Repo-native project context, agent instructions, design-token inputs, and drift checks. | [Product](https://projectspine.dev) |
+| **[DSharp Design System](https://digitaltableteur.com/work/dsharp-design-system)** | Client design-system delivery: React components, token governance, and Storybook documentation. | [Case study](https://digitaltableteur.com/work/dsharp-design-system) |
+| **BountyOps** | Governance for security research: scope and contract gates, traceable evidence, and human review. | Private |
 
 ## Independent Apps
 
