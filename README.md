@@ -92,7 +92,7 @@ Independent macOS apps where I explore interaction design, accessibility and loc
 
 - **[I audited 20 design systems for spacing drift. Here is what your team can use from it.](https://dev.to/petrilahdelma/i-audited-20-design-systems-for-spacing-drift-here-is-what-your-team-can-use-from-it-3ac7)**<br />
   What real repositories revealed about spacing drift, false positives and rolling out token checks without blocking teams.<br />
-  *DEV Community*
+  *DEV.to*
 
 ## I ship with
 
