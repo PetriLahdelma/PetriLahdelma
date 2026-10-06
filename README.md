@@ -8,7 +8,7 @@ I connect product design and frontend engineering through component libraries, d
 
 I led the SAP Build Apps design system. Today, I work on design systems at [Digitaltableteur](https://digitaltableteur.com) and build [VertaaUX.ai](https://vertaaux.ai), an accessibility and UX auditing platform.
 
-[Portfolio & writing](https://petrilahdelma.com) · [Get in touch](mailto:mail@digitaltableteur.com) · [LinkedIn](https://www.linkedin.com/in/petrilahdelma/)
+[Talks & writing](https://petrilahdelma.com) · [Portfolio](https://digitaltableteur.com) · [Get in touch](mailto:mail@digitaltableteur.com) · [LinkedIn](https://www.linkedin.com/in/petrilahdelma/)
 
 <br clear="all" />
 
