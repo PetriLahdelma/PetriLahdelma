@@ -4,9 +4,9 @@
 
 **Design systems leader and hands-on builder.**
 
-I connect product design and frontend engineering through component libraries, design tokens, documentation, and governance. My 20 years in design span enterprise systems, developer tooling and independent products.
+I connect product design and frontend engineering through component libraries, design tokens, documentation and governance. My 20 years in design span enterprise systems, developer tooling and independent products.
 
-I led the SAP Build Apps design system. Today, I work on design systems at [Digitaltableteur](https://digitaltableteur.com) and build [VertaaUX.ai](https://vertaaux.ai), an accessibility and UX auditing platform.
+I led the SAP Build Apps design system and built hundreds of accessible components for Helsinki Design System. Today, I work on design systems at [Digitaltableteur](https://digitaltableteur.com) and build [VertaaUX.ai](https://vertaaux.ai), an accessibility and UX auditing platform.
 
 [Talks & writing](https://petrilahdelma.com) · [Portfolio](https://digitaltableteur.com) · [Get in touch](mailto:mail@digitaltableteur.com) · [LinkedIn](https://www.linkedin.com/in/petrilahdelma/)
 
