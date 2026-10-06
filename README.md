@@ -21,7 +21,7 @@ I led the SAP Build Apps design system and built hundreds of accessible componen
       <strong>Personal site @ <a href="https://petrilahdelma.com">petrilahdelma.com</a><br />
       Focusing on design leadership and genai workflows.</strong><br />
       Selected case studies, articles, talks, systems thinking and notes on design tooling and AI.<br /><br />
-      <a href="https://petrilahdelma.com"><img alt="Visit site — Personal site" src="./assets/cta/personal-site.svg" width="152" height="44" /></a><br /><br />
+      <a href="https://petrilahdelma.com"><img alt="Visit site — Personal site" src="./assets/cta/personal-site-wide.svg" width="100%" height="44" /></a><br /><br />
       <a href="https://dribbble.com/digitaltableteur"><img alt="Dribbble" src="https://img.shields.io/badge/Dribbble-EA4C89?logo=dribbble&logoColor=white" /></a>
       <a href="https://www.producthunt.com/@petrilahdelma"><img alt="Product Hunt" src="https://img.shields.io/badge/Product%20Hunt-DA552F?logo=producthunt&logoColor=white" /></a>
       <a href="https://x.com/petrilahdelma"><img alt="X" src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white" /></a>
@@ -30,7 +30,7 @@ I led the SAP Build Apps design system and built hundreds of accessible componen
       <a href="https://digitaltableteur.com"><img alt="Digitaltableteur: logo over the portfolio" src="./assets/banners/digitaltableteur.png" width="100%" /></a><br /><br />
       <strong>Design Systems @ <a href="https://digitaltableteur.com">Digitaltableteur</a></strong><br />
       Component libraries, design-to-code alignment, and DesignOps governance. Daily stack: Claude Code, Figma, Storybook, React/TypeScript.<br /><br />
-      <a href="https://digitaltableteur.com"><img alt="Visit site — Digitaltableteur" src="./assets/cta/digitaltableteur.svg" width="152" height="44" /></a><br /><br />
+      <a href="https://digitaltableteur.com"><img alt="Visit site — Digitaltableteur" src="./assets/cta/digitaltableteur-wide.svg" width="100%" height="44" /></a><br /><br />
       <a href="https://www.linkedin.com/company/digitaltableteur/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" /></a>
       <a href="https://www.reddit.com/user/digitaltableteur/"><img alt="Reddit" src="https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white" /></a>
       <a href="https://x.com/digitaltableteur"><img alt="X" src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white" /></a>
@@ -41,7 +41,7 @@ I led the SAP Build Apps design system and built hundreds of accessible componen
       <a href="https://vertaaux.ai"><img alt="VertaaUX: logo over a sample audit report" src="./assets/banners/vertaaux.png" width="100%" /></a><br /><br />
       <strong>AI-Powered UX Auditing @ <a href="https://vertaaux.ai">VertaaUX.ai</a></strong><br />
       Founder. API-first platform for automated accessibility and UX audits. Async pipelines, LLM-assisted analysis, CLI + CI integrations.<br /><br />
-      <a href="https://vertaaux.ai"><img alt="Audit now — VertaaUX" src="./assets/cta/vertaaux.svg" width="152" height="44" /></a><br /><br />
+      <a href="https://vertaaux.ai"><img alt="Audit now — VertaaUX" src="./assets/cta/vertaaux-wide.svg" width="100%" height="44" /></a><br /><br />
       <a href="https://www.linkedin.com/company/vertaaux/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" /></a>
       <a href="https://www.reddit.com/user/vertaaux/"><img alt="Reddit" src="https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white" /></a>
       <a href="https://x.com/vertaaux"><img alt="X" src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white" /></a>
@@ -50,7 +50,7 @@ I led the SAP Build Apps design system and built hundreds of accessible componen
       <a href="https://github.com/PetriLahdelma/stylelint-plugin-rhythmguard"><img alt="Rhythmguard: logo over the interactive playground" src="./assets/banners/rhythmguard.png" width="100%" /></a><br /><br />
       <strong>Stylelint Plugin @ <a href="https://github.com/PetriLahdelma/stylelint-plugin-rhythmguard">Rhythmguard</a></strong><br />
       Token governance for CSS and Tailwind: enforce spacing scales, require design tokens, and catch arbitrary values before they ship.<br /><br />
-      <a href="https://github.com/PetriLahdelma/stylelint-plugin-rhythmguard"><img alt="View repo — Rhythmguard" src="./assets/cta/rhythmguard.svg" width="152" height="44" /></a><br /><br />
+      <a href="https://github.com/PetriLahdelma/stylelint-plugin-rhythmguard"><img alt="View repo — Rhythmguard" src="./assets/cta/rhythmguard-wide.svg" width="100%" height="44" /></a><br /><br />
       <a href="https://www.npmjs.com/package/stylelint-plugin-rhythmguard"><img alt="npm" src="https://img.shields.io/npm/v/stylelint-plugin-rhythmguard?label=npm" /></a>
       <a href="https://www.npmjs.com/package/stylelint-plugin-rhythmguard"><img alt="npm monthly downloads" src="https://img.shields.io/npm/dm/stylelint-plugin-rhythmguard" /></a>
       <img alt="Type" src="https://img.shields.io/badge/Type-Stylelint%20Plugin-111111" />
