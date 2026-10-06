@@ -47,10 +47,11 @@ I led the SAP Build Apps design system and built hundreds of accessible componen
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/PetriLahdelma/stylelint-plugin-rhythmguard"><img alt="Rhythmguard: logo over the interactive playground" src="./assets/banners/rhythmguard.png" width="100%" /></a><br /><br />
-      <strong><a href="https://github.com/PetriLahdelma/stylelint-plugin-rhythmguard">Stylelint Plugin Rhythmguard</a></strong><br />
+      <strong>Stylelint Plugin <a href="https://github.com/PetriLahdelma/stylelint-plugin-rhythmguard">Rhythmguard</a></strong><br />
       Token governance for CSS and Tailwind: enforce spacing scales, require design tokens, and catch arbitrary values before they ship.<br /><br />
       <a href="https://github.com/PetriLahdelma/stylelint-plugin-rhythmguard"><img alt="View repo — Rhythmguard" src="./assets/cta/rhythmguard.svg" width="152" height="44" /></a><br /><br />
       <a href="https://www.npmjs.com/package/stylelint-plugin-rhythmguard"><img alt="npm" src="https://img.shields.io/npm/v/stylelint-plugin-rhythmguard?label=npm" /></a>
+      <a href="https://www.npmjs.com/package/stylelint-plugin-rhythmguard"><img alt="npm monthly downloads" src="https://img.shields.io/npm/dm/stylelint-plugin-rhythmguard" /></a>
       <img alt="Type" src="https://img.shields.io/badge/Type-Stylelint%20Plugin-111111" />
     </td>
   </tr>
