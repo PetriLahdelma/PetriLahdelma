@@ -2,7 +2,7 @@
 
 <img align="right" alt="Petri Lahdelma" src="./petri-portrait-2026.png" width="220" />
 
-**Design systems leader and hands-on builder.**
+**Design systems leader and hands-on builder. 🚧👷**
 
 I connect product design and frontend engineering through component libraries, design tokens, documentation and governance. My 20 years in design span enterprise systems, developer tooling and independent products.
 
