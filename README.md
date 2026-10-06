@@ -17,7 +17,7 @@ I led the SAP Build Apps design system and built hundreds of accessible componen
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <a href="https://petrilahdelma.com"><img alt="petrilahdelma.com" src="./petrilahdelma.svg" width="110" /></a><br /><br />
+      <a href="https://petrilahdelma.com"><img alt="Personal site: logo over a screenshot of petrilahdelma.com" src="./assets/banners/personal-site.png" width="100%" /></a><br /><br />
       <strong>Personal site @ <a href="https://petrilahdelma.com">petrilahdelma.com</a> focusing on design leadership and genai workflows.</strong><br />
       Selected case studies, articles, talks, systems thinking and notes on design tooling and AI.<br /><br />
       <a href="https://petrilahdelma.com"><img alt="Visit site — Personal site" src="./assets/cta/personal-site.svg" width="152" height="44" /></a><br /><br />
@@ -26,7 +26,7 @@ I led the SAP Build Apps design system and built hundreds of accessible componen
       <a href="https://x.com/petrilahdelma"><img alt="X" src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white" /></a>
     </td>
     <td width="50%" valign="top">
-      <a href="https://digitaltableteur.com"><img alt="Digitaltableteur" src="./dt-logo@2x.png" width="110" /></a><br /><br />
+      <a href="https://digitaltableteur.com"><img alt="Digitaltableteur: logo over the portfolio" src="./assets/banners/digitaltableteur.png" width="100%" /></a><br /><br />
       <strong>Design Systems @ <a href="https://digitaltableteur.com">Digitaltableteur</a></strong><br />
       Component libraries, design-to-code alignment, and DesignOps governance. Daily stack: Claude Code, Figma, Storybook, React/TypeScript.<br /><br />
       <a href="https://digitaltableteur.com"><img alt="Visit site — Digitaltableteur" src="./assets/cta/digitaltableteur.svg" width="152" height="44" /></a><br /><br />
@@ -37,7 +37,7 @@ I led the SAP Build Apps design system and built hundreds of accessible componen
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://vertaaux.ai"><img alt="VertaaUX.ai" src="./vertaaux-round.png" width="110" /></a><br /><br />
+      <a href="https://vertaaux.ai"><img alt="VertaaUX: logo over a sample audit report" src="./assets/banners/vertaaux.png" width="100%" /></a><br /><br />
       <strong>AI-Powered UX Auditing @ <a href="https://vertaaux.ai">VertaaUX.ai</a></strong><br />
       Founder. API-first platform for automated accessibility and UX audits. Async pipelines, LLM-assisted analysis, CLI + CI integrations.<br /><br />
       <a href="https://vertaaux.ai"><img alt="Audit now — VertaaUX" src="./assets/cta/vertaaux.svg" width="152" height="44" /></a><br /><br />
@@ -46,7 +46,7 @@ I led the SAP Build Apps design system and built hundreds of accessible componen
       <a href="https://x.com/vertaaux"><img alt="X" src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white" /></a>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/PetriLahdelma/stylelint-plugin-rhythmguard"><img alt="Stylelint plugin Rhythmguard" src="./rhythmguard-icon@2x.png" width="110" /></a><br /><br />
+      <a href="https://github.com/PetriLahdelma/stylelint-plugin-rhythmguard"><img alt="Rhythmguard: logo over the interactive playground" src="./assets/banners/rhythmguard.png" width="100%" /></a><br /><br />
       <strong><a href="https://github.com/PetriLahdelma/stylelint-plugin-rhythmguard">Stylelint Plugin Rhythmguard</a></strong><br />
       Token governance for CSS and Tailwind: enforce spacing scales, require design tokens, and catch arbitrary values before they ship.<br /><br />
       <a href="https://github.com/PetriLahdelma/stylelint-plugin-rhythmguard"><img alt="View repo — Rhythmguard" src="./assets/cta/rhythmguard.svg" width="152" height="44" /></a><br /><br />
@@ -82,6 +82,10 @@ Independent macOS apps where I explore interaction design, accessibility and loc
 
 ---
 
+## I ship with
+
+<img alt="Claude, Codex, ChatGPT, Figma and Storybook" src="./assets/tools/i-ship-with.svg" width="100%" />
+
 ## How I Think
 
 - **Systems > pixels**: Components that compose, not one-off designs
@@ -92,11 +96,17 @@ Independent macOS apps where I explore interaction design, accessibility and loc
 
 ## Contact
 
-📧 [mail@digitaltableteur.com](mailto:mail@digitaltableteur.com)
-🔗 [LinkedIn](https://linkedin.com/in/petrilahdelma)
-🤝 **Collaboration:** Available for design systems leadership, frontend architecture, and AI tooling advisory.
+**Let’s talk about your next project or design leadership role.**
 
-<sub>Open to: Design Systems, AI/LLM tooling, Frontend Architecture roles</sub>
+Design systems, frontend architecture and AI workflows—from advisory to hands-on delivery.
+
+<p>
+  <a href="mailto:mail@digitaltableteur.com?subject=Consulting%20enquiry"><img alt="Consulting enquiries" src="./assets/cta/consulting-enquiries.svg" width="280" height="48" /></a>
+  &nbsp;
+  <a href="mailto:mail@digitaltableteur.com?subject=Leadership%20opportunity"><img alt="Leadership opportunities" src="./assets/cta/leadership-opportunities.svg" width="280" height="48" /></a>
+</p>
+
+[mail@digitaltableteur.com](mailto:mail@digitaltableteur.com) · [Connect on LinkedIn](https://www.linkedin.com/in/petrilahdelma/)
 
 ---
 
@@ -121,10 +131,3 @@ Digitaltableteur<br><br>
 [![Instagram](https://img.shields.io/badge/Instagram-digitaltableteur-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/digitaltableteur/)
 [![Facebook](https://img.shields.io/badge/Facebook-digitaltableteur-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/digitaltableteur)
 [![Medium](https://img.shields.io/badge/Medium-digitaltableteur-000000?logo=medium&logoColor=white)](https://medium.com/digitaltableteur)
-
----
-
-<p align="right">
-  <img alt="Designerman game sprite sheet" src="./designerman.png" width="200" /><br />
-  <sub>Game sprite for Designerman</sub>
-</p>
