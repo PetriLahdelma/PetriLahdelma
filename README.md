@@ -118,4 +118,7 @@ Digitaltableteur<br><br>
 
 ---
 
-<p align="right"><img alt="Designerman pixel-art signature" src="./designerman.png" width="140" /></p>
+<p align="right">
+  <img alt="Designerman game sprite sheet" src="./designerman.png" width="200" /><br />
+  <sub>Game sprite for Designerman</sub>
+</p>
