@@ -1,130 +1,56 @@
-<table width="100%">
-  <tr>
-    <td width="50%"><img alt="Petri" src="./petri-aug-2026.png" width="100%" /></td>
-    <td width="50%"><img alt="Designerman" src="./designerman.png" width="100%" /></td>
-  </tr>
-</table>
-
 # Petri Lahdelma
-<sub><strong>Design Leadership</strong> · Design Systems · React/TypeScript · AI workflow tooling · A11y · Storybook · Figma-to-code · Design Ops and DS Governance</sub>
 
-**Design Systems @ Digitaltableteur · Founder of [VertaaUX.ai](https://vertaaux.ai)**
+<img align="right" alt="Petri Lahdelma" src="./petri-portrait-2026.png" width="220" />
 
-I build production-grade design systems and AI-powered developer tools. 20 years turning messy requirements into resilient platforms that teams actually want to build on.
+**Design systems leader and hands-on builder.**
 
+I connect product design and frontend engineering through component libraries, design tokens, documentation, and governance. My 20 years in design span enterprise systems, developer tooling, and independent products.
 
+I led the SAP Build Apps design system. Today, I work on design systems at [Digitaltableteur](https://digitaltableteur.com) and build [VertaaUX.ai](https://vertaaux.ai), an accessibility and UX auditing platform.
 
-## About
+[Portfolio & writing](https://petrilahdelma.com) · [Get in touch](mailto:mail@digitaltableteur.com)
 
-I lead design systems and frontend architecture, and I ship practical AI tooling for product teams.
+<br clear="all" />
 
-- 20 years in Design + Design Systems. Self taught in development.
-- Design Systems @ Digitaltableteur
-- Founder of VertaaUX.ai (AI-powered UX and accessibility auditing)
+## Selected Work
 
-**Optional deep summary:** 🤖 [Ask ChatGPT for my background + projects](https://chatgpt.com/s/t_697692d741e8819185f05f5751611e35)
+### Enterprise delivery · SAP Build Apps
 
+**Design System Lead.** My responsibilities covered system architecture, component design, documentation, and design-to-code translation, including the specification of the enterprise data table.
 
+The work connected Figma and React components through shared tokens, accessibility requirements, Storybook documentation, and a component review and release process.
 
-## What I Work On
+[Read the case study](https://digitaltableteur.com/work/sap-build-apps)
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://petrilahdelma.com"><img alt="petrilahdelma.com" src="./petrilahdelma.svg" width="110" /></a><br />
-      <strong>Personal site @ <a href="https://petrilahdelma.com">petrilahdelma.com</a></strong><br />
-      Selected work, systems thinking, and notes on design tooling and AI.<br /><br />
-      <a href="https://dribbble.com/digitaltableteur"><img alt="Dribbble" src="https://img.shields.io/badge/Dribbble-EA4C89?logo=dribbble&logoColor=white" /></a>
-      <a href="https://www.producthunt.com/@petrilahdelma"><img alt="Product Hunt" src="https://img.shields.io/badge/Product%20Hunt-DA552F?logo=producthunt&logoColor=white" /></a>
-      <a href="https://x.com/petrilahdelma"><img alt="X" src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white" /></a>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://digitaltableteur.com"><img alt="Digitaltableteur" src="./dt-logo@2x.png" width="110" /></a><br />
-      <strong>Design Systems @ <a href="https://digitaltableteur.com">Digitaltableteur</a></strong><br />
-      Production-grade components, design-to-code alignment, and DesignOps governance. Daily stack: Claude Code, Figma, Storybook, React/TypeScript.<br /><br />
-      <a href="https://www.linkedin.com/company/digitaltableteur/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" /></a>
-      <a href="https://www.reddit.com/user/digitaltableteur/"><img alt="Reddit" src="https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white" /></a>
-      <a href="https://x.com/digitaltableteur"><img alt="X" src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white" /></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://vertaaux.ai"><img alt="VertaaUX.ai" src="./vertaaux-round.png" width="110" /></a><br />
-      <strong>AI-Powered UX Auditing @ <a href="https://vertaaux.ai">VertaaUX.ai</a></strong><br />
-      Founder. API-first platform for automated accessibility and UX audits. Async pipelines, LLM-assisted analysis, CLI + CI integrations.<br /><br />
-      <a href="https://www.linkedin.com/company/vertaaux/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" /></a>
-      <a href="https://www.reddit.com/user/vertaaux/"><img alt="Reddit" src="https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white" /></a>
-      <a href="https://x.com/vertaaux"><img alt="X" src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white" /></a>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/PetriLahdelma/stylelint-plugin-rhythmguard"><img alt="Stylelint plugin Rhythmguard" src="./rhythmguard-icon@2x.png" width="110" /></a><br />
-      <strong><a href="https://github.com/PetriLahdelma/stylelint-plugin-rhythmguard">Stylelint Plugin Rhythmguard</a></strong><br />
-      Token governance for CSS and Tailwind: enforce spacing scales, require design tokens, and catch arbitrary values before they ship.<br /><br />
-      <a href="https://www.npmjs.com/package/stylelint-plugin-rhythmguard"><img alt="npm" src="https://img.shields.io/npm/v/stylelint-plugin-rhythmguard?label=npm" /></a>
-      <img alt="Type" src="https://img.shields.io/badge/Type-Stylelint%20Plugin-111111" />
-    </td>
-  </tr>
-</table>
+### Systems and tooling · Rhythmguard
 
----
+**Creator and maintainer.** I built Rhythmguard to make design-system rules enforceable in CSS and Tailwind: check spacing scales, require tokens, and identify drift in code.
 
-## Proof of Work
+Autofix and audit reports turn those rules into checks developers can run locally and in CI.
 
-| Project                                                                   | What It Demonstrates                                                          | Evaluate                               |
-| ------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | -------------------------------------- |
-| **[Ring Stats](https://github.com/PetriLahdelma/ring-stats)**              | Native macOS app, SwiftUI/AppKit, Oura API integration, Keychain credentials   | [Download](https://github.com/PetriLahdelma/ring-stats/releases/latest) |
-| **[Rhythmguard](https://github.com/PetriLahdelma/stylelint-plugin-rhythmguard)** | CSS and Tailwind token governance, spacing-scale enforcement, autofix, drift reports | [npm](https://www.npmjs.com/package/stylelint-plugin-rhythmguard) |
-| **[Project Spine](https://github.com/PetriLahdelma/project-spine)**         | Repo-native context compiler, agent instructions, design-token ingestion, drift detection | [Product](https://projectspine.dev) |
-| **[Precedent App](https://github.com/PetriLahdelma/precedent-releases)**    | Local-first macOS workspace, on-device dictation, OCR, source provenance, reference retrieval | [Download](https://github.com/PetriLahdelma/precedent-releases/releases/latest) |
-| **[home-tv-mcp](https://github.com/PetriLahdelma/home-remote-updates)**     | Native macOS remote, local device control, MCP and CLI interfaces, Keychain-backed pairing | [Download](https://github.com/PetriLahdelma/home-remote-updates/releases/latest) |
-| **BountyOps**                                                           | Local-first bug bounty operations, scope and contract gates, evidence tracking, review workflows | Private |
-| **[digitaltableteur](https://github.com/PetriLahdelma/digitaltableteur)** | 50+ component design system, i18n, Storybook, Playwright, Sentry              | [Visit](https://digitaltableteur.com)   |
-| **[VertaaUX.ai](https://vertaaux.ai)**                                    | API-first AI platform, async pipelines, CI integrations, usage metering       | [Product](https://vertaaux.ai)         |
-| **[SAP Build Apps DS](https://www.sap.com/design-system/)**               | Enterprise design system at scale, governance, cross-team alignment           | NDA                   |
+[Source & documentation](https://github.com/PetriLahdelma/stylelint-plugin-rhythmguard) · [npm package](https://www.npmjs.com/package/stylelint-plugin-rhythmguard)
 
----
+### Product ownership · VertaaUX
 
-## Recently Shipped
+**Founder and builder.** VertaaUX brings accessibility and UX auditing into a product workflow, with a web interface, API, and CLI integrations.
 
-_Last updated: <!-- LATEST_SHIPPED_TIMESTAMP_START -->2026-05-19 08:00 UTC<!-- LATEST_SHIPPED_TIMESTAMP_END -->_
+My work connects the audit experience with asynchronous processing and LLM-assisted analysis, from requesting an audit to reviewing its findings.
 
-<table width="100%">
-  <thead>
-    <tr>
-      <th align="left">Project</th>
-      <th align="left">Current shipped signal</th>
-    </tr>
-  </thead>
-  <tbody>
-<!-- LATEST_SHIPPED_START -->
-    <tr>
-      <td><strong><a href="https://vertaaux.ai">VertaaUX.ai</a></strong></td>
-      <td>AI UX + accessibility auditing platform: v4.3 commercial experimentation shipped, v4.5 design-system maturity in flight, and multi-surface distribution across web, CLI, MCP, API, GitHub Action, editor/browser extensions, Figma, SDK, and PWA.</td>
-    </tr>
-    <tr>
-      <td><strong><a href="https://dsharp.fi">DSharp Design System</a></strong></td>
-      <td>Client design system delivery for the DSharp platform: 112 React components, 0 alpha components, z-index token scale, reduced-motion verification, Storybook governance, and MCP/CLI sidecars for agent-safe consumption.</td>
-    </tr>
-    <tr>
-      <td><strong><a href="https://petrilahdelma.com">petrilahdelma.com</a></strong></td>
-      <td>Personal design-systems and AI workflow site with work case studies, writing, glossary, toolbox downloads, contact flows, analytics, and SEO automation.</td>
-    </tr>
-    <tr>
-      <td><strong><a href="https://seppo.io">Seppo AI consultancy</a></strong></td>
-      <td>Client MVP and Storybook system for gamified training: Kesko / EY pilot shell, onboarding flow, board progression, AI-assisted exercise generation, result moments, and white-label theming.</td>
-    </tr>
-    <tr>
-      <td><strong><a href="https://digitaltableteur.com">Digitaltableteur</a></strong></td>
-      <td>Design systems consultancy surface for production-grade components, design-to-code alignment, AI-assisted DesignOps, and practical systems writing.</td>
-    </tr>
-    <tr>
-      <td><strong><a href="https://github.com/PetriLahdelma/stylelint-plugin-rhythmguard">Stylelint Plugin Rhythmguard</a></strong></td>
-      <td>Token governance for CSS and Tailwind: v1.6.0 shipped with Audit 2.0 design-system drift reporting.</td>
-    </tr>
-<!-- LATEST_SHIPPED_END -->
-  </tbody>
-</table>
+[Explore the product](https://vertaaux.ai)
 
+### More systems work
+
+- **[Project Spine](https://github.com/PetriLahdelma/project-spine)** — repo-native project context, agent instructions, design-token inputs, and drift checks. [Product](https://projectspine.dev)
+- **[DSharp Design System](https://digitaltableteur.com/work/dsharp-design-system)** — client design-system delivery covering React components, token governance, and Storybook documentation.
+- **BountyOps (private)** — governance tooling for security research: explicit scope and contract gates, traceable evidence, and human review before submission.
+
+## Independent Apps
+
+| App | What I built | Try it |
+| --- | --- | --- |
+| **[Precedent](https://github.com/PetriLahdelma/precedent-releases)** | A local-first macOS reference workspace with on-device dictation, OCR, and source provenance. | [Download](https://github.com/PetriLahdelma/precedent-releases/releases/latest) |
+| **[Ring Stats](https://github.com/PetriLahdelma/ring-stats)** | A native macOS menu-bar app for Oura metrics, with Keychain credential storage. | [Download](https://github.com/PetriLahdelma/ring-stats/releases/latest) |
+| **[Home Remote](https://github.com/PetriLahdelma/home-remote-updates)** | Local TV control through a macOS app, CLI, and MCP server; built as home-tv-mcp. | [Download](https://github.com/PetriLahdelma/home-remote-updates/releases/latest) |
 
 ---
 
@@ -167,3 +93,7 @@ Digitaltableteur<br><br>
 [![Instagram](https://img.shields.io/badge/Instagram-digitaltableteur-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/digitaltableteur/)
 [![Facebook](https://img.shields.io/badge/Facebook-digitaltableteur-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/digitaltableteur)
 [![Medium](https://img.shields.io/badge/Medium-digitaltableteur-000000?logo=medium&logoColor=white)](https://medium.com/digitaltableteur)
+
+---
+
+<p align="right"><img alt="Designerman pixel-art signature" src="./designerman.png" width="140" /></p>
