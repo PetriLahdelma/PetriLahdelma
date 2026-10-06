@@ -59,6 +59,7 @@ I led the SAP Build Apps design system. Today, I work on design systems at [Digi
 | Project | My role & what it demonstrates | Explore |
 | --- | --- | --- |
 | **[SAP Build Apps DS](https://digitaltableteur.com/work/sap-build-apps)** | Design System Lead: system architecture, component design, documentation, and Figma-to-React alignment. | [Case study](https://digitaltableteur.com/work/sap-build-apps) |
+| **[Helsinki Design System / HDS](https://digitaltableteur.com/work/helsinki-design-system)** | Senior UX Designer: component design, frontend work, accessibility, and documentation for the City of Helsinki's open-source design system. | [Case study](https://digitaltableteur.com/work/helsinki-design-system) |
 | **[Rhythmguard](https://github.com/PetriLahdelma/stylelint-plugin-rhythmguard)** | Creator and maintainer: CSS and Tailwind token governance, spacing checks, autofix, and drift reports. | [npm](https://www.npmjs.com/package/stylelint-plugin-rhythmguard) |
 | **[VertaaUX.ai](https://vertaaux.ai)** | Founder and builder: accessibility and UX auditing across web, API, and CLI workflows. | [Product](https://vertaaux.ai) |
 | **[Project Spine](https://github.com/PetriLahdelma/project-spine)** | Repo-native project context, agent instructions, design-token inputs, and drift checks. | [Product](https://projectspine.dev) |
