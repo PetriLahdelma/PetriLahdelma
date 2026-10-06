@@ -72,7 +72,9 @@ I lead design systems and frontend architecture, and I ship practical AI tooling
 
 | Project                                                                   | What It Demonstrates                                                          | Evaluate                               |
 | ------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | -------------------------------------- |
-| **[notcringe](https://github.com/PetriLahdelma/notcringe)**               | Full-stack AI: LLM integration, streaming, prompt engineering, safety filters | [Try WIP](https://notcringe.vercel.app) |
+| **[Ring Stats](https://github.com/PetriLahdelma/ring-stats)**              | Native macOS app, SwiftUI/AppKit, Oura API integration, Keychain credentials   | [Download](https://github.com/PetriLahdelma/ring-stats/releases/latest) |
+| **[Rhythmguard](https://github.com/PetriLahdelma/stylelint-plugin-rhythmguard)** | CSS and Tailwind token governance, spacing-scale enforcement, autofix, drift reports | [npm](https://www.npmjs.com/package/stylelint-plugin-rhythmguard) |
+| **[Project Spine](https://github.com/PetriLahdelma/project-spine)**         | Repo-native context compiler, agent instructions, design-token ingestion, drift detection | [Product](https://projectspine.dev) |
 | **[digitaltableteur](https://github.com/PetriLahdelma/digitaltableteur)** | 50+ component design system, i18n, Storybook, Playwright, Sentry              | [Visit](https://digitaltableteur.com)   |
 | **[VertaaUX.ai](https://vertaaux.ai)**                                    | API-first AI platform, async pipelines, CI integrations, usage metering       | [Product](https://vertaaux.ai)         |
 | **[SAP Build Apps DS](https://www.sap.com/design-system/)**               | Enterprise design system at scale, governance, cross-team alignment           | NDA                   |
@@ -159,6 +161,7 @@ Personal<br><br>
 [![X](https://img.shields.io/badge/X-@petrilahdelma-000000?logo=x&logoColor=white)](https://x.com/petrilahdelma)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-@petrilahdelma-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/petrilahdelma/)
 [![GitHub](https://img.shields.io/badge/GitHub-@petrilahdelma-181717?logo=github&logoColor=white)](https://github.com/petrilahdelma)
+[![DEV.to](https://img.shields.io/badge/DEV.to-@petrilahdelma-0A0A0A?logo=devdotto&logoColor=white)](https://dev.to/petrilahdelma)
 [![Substack](https://img.shields.io/badge/Substack-@petrilahdelma-FF6719?logo=substack&logoColor=white)](https://substack.com/@petrilahdelma)
 [![Medium](https://img.shields.io/badge/Medium-@petrilahdelma-000000?logo=medium&logoColor=white)](https://medium.com/@petrilahdelma)
 [![Instagram](https://img.shields.io/badge/Instagram-@petrilahdelma-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/petrilahdelma/)
