@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="280" height="48" viewBox="0 0 280 48" role="img" aria-label="Leadership opportunities">
+  <title>Leadership opportunities</title>
+  <rect x="0.5" y="0.5" width="279" height="47" rx="6" fill="#f0f6fc" stroke="#8b949e"/>
+  <text x="18" y="29" fill="#0d1117" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="600">Leadership opportunities</text>
+  <path d="M246 29 256 19M246 19h10v10" fill="none" stroke="#0d1117" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
