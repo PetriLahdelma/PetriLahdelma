@@ -19,7 +19,7 @@ I led the SAP Build Apps design system and built hundreds of accessible componen
     <td width="50%" valign="top">
       <a href="https://petrilahdelma.com"><img alt="petrilahdelma.com" src="./petrilahdelma.svg" width="110" /></a><br /><br />
       <strong>Personal site @ <a href="https://petrilahdelma.com">petrilahdelma.com</a></strong><br />
-      Selected work, systems thinking, and notes on design tooling and AI.<br /><br />
+      Selected case studies, articles, talks, systems thinking and notes on design tooling and AI.<br /><br />
       <a href="https://petrilahdelma.com"><img alt="Visit site — Personal site" src="./assets/cta/personal-site.svg" width="152" height="44" /></a><br /><br />
       <a href="https://dribbble.com/digitaltableteur"><img alt="Dribbble" src="https://img.shields.io/badge/Dribbble-EA4C89?logo=dribbble&logoColor=white" /></a>
       <a href="https://www.producthunt.com/@petrilahdelma"><img alt="Product Hunt" src="https://img.shields.io/badge/Product%20Hunt-DA552F?logo=producthunt&logoColor=white" /></a>
