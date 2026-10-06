@@ -1,6 +1,6 @@
 <table width="100%">
   <tr>
-    <td width="50%"><img alt="Petri" src="./petri.png" width="100%" /></td>
+    <td width="50%"><img alt="Petri" src="./petri.png?v=6b9c79ea" width="100%" /></td>
     <td width="50%"><img alt="Designerman" src="./designerman.png" width="100%" /></td>
   </tr>
 </table>
