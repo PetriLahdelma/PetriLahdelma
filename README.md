@@ -66,7 +66,7 @@ I led the SAP Build Apps design system and built hundreds of accessible componen
 | **[Helsinki Design System / HDS](https://digitaltableteur.com/work/helsinki-design-system)** | Senior UX Designer: component design, frontend work, accessibility, and documentation for the City of Helsinki's open-source design system. | [Case study](https://digitaltableteur.com/work/helsinki-design-system) |
 | **[Rhythmguard](https://github.com/PetriLahdelma/stylelint-plugin-rhythmguard)** | Creator and maintainer: CSS and Tailwind token governance, spacing checks, autofix, and drift reports. | [npm](https://www.npmjs.com/package/stylelint-plugin-rhythmguard) |
 | **[VertaaUX.ai](https://vertaaux.ai)** | Founder and builder: accessibility and UX auditing across web, API, and CLI workflows. | [Product](https://vertaaux.ai) |
-| **[Project Spine](https://github.com/PetriLahdelma/project-spine)** | Repo-native project context, agent instructions, design-token inputs, and drift checks. | [Product](https://projectspine.dev) |
+| **[Project Spine](https://github.com/PetriLahdelma/project-spine)** | Turns reviewed code corrections into verified regression checks and agent guidance, with Git evidence and CI enforcement. | [Product](https://projectspine.dev) |
 | **[DSharp Design System](https://digitaltableteur.com/work/dsharp-design-system)** | Client design-system delivery: React components, token governance, and Storybook documentation. | [Case study](https://digitaltableteur.com/work/dsharp-design-system) |
 | **BountyOps** | Governance for security research: scope and contract gates, traceable evidence, and human review. | Private |
 
