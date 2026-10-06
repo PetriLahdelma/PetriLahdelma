@@ -84,6 +84,14 @@ Independent macOS apps where I explore interaction design, accessibility and loc
 
 ---
 
+## Articles
+
+- **[From Tokens to Thinking Systems: Making AI-Native Design Systems Actually Work](https://www.digitaltableteur.com/blog/from-tokens-to-thinking-systems-making-ai-native-design-systems-actually-work)**<br />
+  Making component behavior, accessibility and token rules explicit enough for AI agents to use. *Digitaltableteur*
+
+- **[I audited 20 design systems for spacing drift. Here is what your team can use from it.](https://dev.to/petrilahdelma/i-audited-20-design-systems-for-spacing-drift-here-is-what-your-team-can-use-from-it-3ac7)**<br />
+  What real repositories revealed about spacing drift, false positives and rolling out token checks without blocking teams. *DEV Community*
+
 ## I ship with
 
 <img alt="Claude, Codex, ChatGPT, Figma and Storybook" src="./assets/tools/i-ship-with-v2.svg" width="100%" />
