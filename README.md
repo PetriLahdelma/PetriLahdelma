@@ -18,7 +18,8 @@ I led the SAP Build Apps design system and built hundreds of accessible componen
   <tr>
     <td width="50%" valign="top">
       <a href="https://petrilahdelma.com"><img alt="Personal site: logo over a screenshot of petrilahdelma.com" src="./assets/banners/personal-site.png" width="100%" /></a><br /><br />
-      <strong>Personal site @ <a href="https://petrilahdelma.com">petrilahdelma.com</a> focusing on design leadership and genai workflows.</strong><br />
+      <strong>Personal site @ <a href="https://petrilahdelma.com">petrilahdelma.com</a><br />
+      Focusing on design leadership and genai workflows.</strong><br />
       Selected case studies, articles, talks, systems thinking and notes on design tooling and AI.<br /><br />
       <a href="https://petrilahdelma.com"><img alt="Visit site — Personal site" src="./assets/cta/personal-site.svg" width="152" height="44" /></a><br /><br />
       <a href="https://dribbble.com/digitaltableteur"><img alt="Dribbble" src="https://img.shields.io/badge/Dribbble-EA4C89?logo=dribbble&logoColor=white" /></a>
