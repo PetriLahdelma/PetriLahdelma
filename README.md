@@ -103,12 +103,10 @@ Independent macOS apps where I explore interaction design, accessibility and loc
 Design systems, frontend architecture and AI workflows—from advisory to hands-on delivery.
 
 <p>
-  <a href="mailto:mail@digitaltableteur.com?subject=Consulting%20enquiry"><img alt="Consulting enquiries" src="./assets/cta/consulting-enquiries.svg" width="280" height="48" /></a>
-  &nbsp;
-  <a href="mailto:mail@digitaltableteur.com?subject=Leadership%20opportunity"><img alt="Leadership opportunities" src="./assets/cta/leadership-opportunities.svg" width="280" height="48" /></a>
+  <a href="mailto:mail@digitaltableteur.com?subject=Consulting%20enquiry"><img alt="Consulting enquiries" src="./assets/cta/consulting-column.svg" width="32%" height="64" /></a>
+  <a href="mailto:mail@digitaltableteur.com?subject=Leadership%20opportunity"><img alt="Leadership opportunities" src="./assets/cta/leadership-column.svg" width="32%" height="64" /></a>
+  <a href="https://www.linkedin.com/in/petrilahdelma/"><img alt="Connect on LinkedIn" src="./assets/cta/linkedin-column.svg" width="32%" height="64" /></a>
 </p>
-
-[mail@digitaltableteur.com](mailto:mail@digitaltableteur.com) · [Connect on LinkedIn](https://www.linkedin.com/in/petrilahdelma/)
 
 ---
 
