@@ -1,6 +1,6 @@
 # Petri Lahdelma
 
-<img align="right" alt="Petri Lahdelma" src="./petri-portrait-2026.png" width="220" />
+<picture><img align="right" alt="Petri Lahdelma" src="./petri-portrait-2026.png" width="220" /></picture>
 
 **Design systems leader and hands-on builder. 🚧👷**
 
