@@ -103,9 +103,10 @@ Independent macOS apps where I explore interaction design, accessibility and loc
 Design systems, frontend architecture and AI workflows—from advisory to hands-on delivery.
 
 <p>
-  <a href="mailto:mail@digitaltableteur.com?subject=Consulting%20enquiry"><img alt="Consulting enquiries" src="./assets/cta/consulting-column.svg" width="32%" height="64" /></a>
-  <a href="mailto:mail@digitaltableteur.com?subject=Leadership%20opportunity"><img alt="Leadership opportunities" src="./assets/cta/leadership-column.svg" width="32%" height="64" /></a>
-  <a href="https://www.linkedin.com/in/petrilahdelma/"><img alt="Connect on LinkedIn" src="./assets/cta/linkedin-column.svg" width="32%" height="64" /></a>
+  <a href="https://digitaltableteur.com/contact"><img alt="Consulting enquiries" src="./assets/cta/consulting-contact.svg" width="24%" height="64" /></a>
+  <a href="https://petrilahdelma.com/contact#contact-form"><img alt="Leadership opportunities" src="./assets/cta/leadership-contact.svg" width="24%" height="64" /></a>
+  <a href="https://petrilahdelma.com/contact?intent=speaking#contact-form"><img alt="Invite me to talk" src="./assets/cta/speaking-contact.svg" width="24%" height="64" /></a>
+  <a href="https://www.linkedin.com/in/petrilahdelma/"><img alt="Connect on LinkedIn" src="./assets/cta/linkedin-contact.svg" width="24%" height="64" /></a>
 </p>
 
 ---
