@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="152" height="44" viewBox="0 0 152 44" role="img" aria-label="View repo">
+  <title>View repo</title>
+  <rect x="0.5" y="0.5" width="151" height="43" rx="6" fill="#161b22" stroke="#8b949e"/>
+  <text x="16" y="27" fill="#f0f6fc" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="600">View repo</text>
+  <path d="M119 27 129 17M119 17h10v10" fill="none" stroke="#f0f6fc" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
