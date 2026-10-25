@@ -27,7 +27,7 @@ I led the SAP Build Apps design system and built hundreds of accessible componen
       <a href="https://x.com/petrilahdelma"><img alt="X" src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white" /></a>
     </td>
     <td width="50%" valign="top">
-      <a href="https://digitaltableteur.com"><img alt="Digitaltableteur: logo over the portfolio" src="./assets/banners/digitaltableteur.png" width="100%" /></a><br /><br />
+      <a href="https://digitaltableteur.com"><img alt="Digitaltableteur: logo over the homepage hero" src="./assets/banners/digitaltableteur-home.png" width="100%" /></a><br /><br />
       <strong>Design Systems @ <a href="https://digitaltableteur.com">Digitaltableteur</a></strong><br />
       Component libraries, design-to-code alignment, and DesignOps governance. Daily stack: Claude Code, Figma, Storybook, React/TypeScript.<br /><br />
       <a href="https://digitaltableteur.com"><img alt="Visit site — Digitaltableteur" src="./assets/cta/digitaltableteur-wide.svg" width="100%" height="44" /></a><br /><br />
