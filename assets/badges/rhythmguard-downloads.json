@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "package": "stylelint-plugin-rhythmguard",
-  "downloads": 6194,
-  "start": "2026-09-29",
-  "end": "2026-10-28",
-  "fetchedAt": "2026-10-30T07:28:57.835Z",
+  "downloads": 6552,
+  "start": "2026-09-30",
+  "end": "2026-10-29",
+  "fetchedAt": "2026-10-31T07:26:40.850Z",
   "source": "https://api.npmjs.org/downloads/point/last-month/stylelint-plugin-rhythmguard"
 }
